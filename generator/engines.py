@@ -1,21 +1,40 @@
-# ----------------------------
-# LOADERS
-# ----------------------------
-def load_json(path: Path):
-    with open(path, "r", encoding="utf-8") as f:
-        return json.load(f)
+from typing import Any, Dict, List
 
 
-def load_books():
-    path = DATA_DIR / "books"
-    return [load_json(f) for f in path.glob("*.json")]
+def apply_rules(chapter_num: int, rules: Dict[str, Any]) -> Dict[str, List[str]]:
+    themes: List[str] = []
+    events: List[str] = []
+
+    for rule in rules.get("chapter_rules", []):
+        start, end = rule["range"]
+
+        if start <= chapter_num <= end:
+            themes.extend(rule.get("themes", []))
+            events.extend(rule.get("events", []))
+
+    return {
+        "themes": sorted(set(themes)),
+        "events": sorted(set(events)),
+    }
 
 
-def load_seed(book: str):
-    path = DATA_DIR / "seeds" / f"{normalize_book_name(book)}_seed.json"
-    return load_json(path)
+def build_chapter_map(seed: Dict[str, Any]) -> Dict[int, Dict[str, Any]]:
+    chapters: Dict[int, Dict[str, Any]] = {}
+    anchors = sorted(seed.get("anchors", []), key=lambda item: item["chapter"])
 
+    for index, anchor in enumerate(anchors):
+        start = anchor["chapter"]
+        end = (
+            anchors[index + 1]["chapter"] - 1
+            if index + 1 < len(anchors)
+            else seed["chapters"]
+        )
 
-def load_rules(book: str):
-    path = DATA_DIR / "rules" / f"{normalize_book_name(book)}_rules.json"
-    return load_json(path)
+        for chapter_num in range(start, end + 1):
+            chapters[chapter_num] = {
+                "people": anchor.get("people", []),
+                "places": anchor.get("places", []),
+                "events": [anchor["event"]] if anchor.get("event") else [],
+            }
+
+    return chapters
