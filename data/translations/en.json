@@ -1,0 +1,43 @@
+{
+  "themes": {
+    "creation": "Creation",
+    "fall": "Fall",
+    "covenant": "Covenant",
+    "faith": "Faith",
+    "promise": "Promise",
+    "providence": "Providence",
+    "deliverance": "Deliverance",
+    "law": "Law",
+    "worship": "Worship",
+    "presence": "Presence of God",
+    "holiness": "Holiness",
+    "redemption": "Redemption",
+    "obedience": "Obedience",
+    "judgment": "Judgment",
+    "grace": "Grace",
+    "blessing": "Blessing"
+  },
+
+  "events": {
+    "creation": "Creation",
+    "fall": "Fall",
+    "flood": "Flood",
+    "tower_of_babel": "Tower of Babel",
+    "call_of_abraham": "Call of Abraham",
+    "joseph_in_egypt": "Joseph in Egypt",
+
+    "israel_in_egypt": "Israel in Egypt",
+    "burning_bush": "Burning Bush",
+    "passover": "Passover",
+    "exodus": "Exodus",
+    "red_sea_crossing": "Crossing of the Red Sea",
+    "ten_commandments": "Ten Commandments",
+    "sinai_covenant": "Sinai Covenant",
+    "golden_calf": "Golden Calf",
+    "tabernacle": "Tabernacle"
+  },
+
+  "groups": {
+    "pentateuch": "Pentateuch"
+  }
+}

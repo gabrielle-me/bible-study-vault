@@ -1,43 +1,44 @@
 {
-  "id": "GEN",
-  "title": "Genesis",
-  "title_de": "1. Mose",
   "author": "Moses",
-  "testament": "Old Testament",
+
   "chapters": 50,
 
+  "summary": "The book of beginnings, describing creation, humanity's fall, the flood, the patriarchs, and God's covenant with Abraham.",
+
+  "summary_de": "Das Buch der Anfänge mit Schöpfung, Sündenfall, Sintflut, den Erzvätern und Gottes Bund mit Abraham.",
+
   "themes": [
-    "Creation - Schöpfung",
-    "Fall - Sündenfall",
-    "Covenant - Bund",
-    "Faith - Glaube",
-    "Promise - Verheißung",
-    "Providence - Vorsehung"
+    "creation",
+    "fall",
+    "covenant",
+    "faith",
+    "promise",
+    "providence"
   ],
 
-  "characters": [
-    "Adam",
-    "Eve",
-    "Noah",
-    "Abraham",
-    "Isaac",
-    "Jacob",
-    "Joseph"
+  "people": [
+    "adam",
+    "eve",
+    "noah",
+    "abraham",
+    "isaac",
+    "jacob",
+    "joseph"
   ],
 
   "places": [
-    "Eden",
-    "Mesopotamia",
-    "Canaan",
-    "Egypt"
+    "eden",
+    "mesopotamia",
+    "canaan",
+    "egypt"
   ],
 
-  "events": [
-    "Creation - Schöpfung",
-    "Fall - Sündenfall",
-    "Flood - Sintflut",
-    "Tower of Babel - Turmbau zu Babel",
-    "Call of Abraham - Berufung Abrahams",
-    "Joseph in Egypt - Joseph in Ägypten"
+  "key_events": [
+    "creation",
+    "fall",
+    "flood",
+    "tower_of_babel",
+    "call_of_abraham",
+    "joseph_in_egypt"
   ]
 }

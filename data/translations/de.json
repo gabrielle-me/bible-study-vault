@@ -1,0 +1,43 @@
+{
+  "themes": {
+    "creation": "Schöpfung",
+    "fall": "Sündenfall",
+    "covenant": "Bund",
+    "faith": "Glaube",
+    "promise": "Verheißung",
+    "providence": "Vorsehung",
+    "deliverance": "Befreiung",
+    "law": "Gesetz",
+    "worship": "Anbetung",
+    "presence": "Gegenwart Gottes",
+    "holiness": "Heiligkeit",
+    "redemption": "Erlösung",
+    "obedience": "Gehorsam",
+    "judgment": "Gericht",
+    "grace": "Gnade",
+    "blessing": "Segen"
+  },
+
+  "events": {
+    "creation": "Schöpfung",
+    "fall": "Sündenfall",
+    "flood": "Sintflut",
+    "tower_of_babel": "Turmbau zu Babel",
+    "call_of_abraham": "Berufung Abrahams",
+    "joseph_in_egypt": "Joseph in Ägypten",
+
+    "israel_in_egypt": "Israel in Ägypten",
+    "burning_bush": "Brennender Dornbusch",
+    "passover": "Passah",
+    "exodus": "Auszug",
+    "red_sea_crossing": "Durchzug durchs Rote Meer",
+    "ten_commandments": "Zehn Gebote",
+    "sinai_covenant": "Sinai-Bund",
+    "golden_calf": "Goldenes Kalb",
+    "tabernacle": "Stiftshütte"
+  },
+
+  "groups": {
+    "pentateuch": "Pentateuch"
+  }
+}

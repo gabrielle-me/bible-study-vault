@@ -1,0 +1,92 @@
+{
+  "creation": {
+    "display": "Creation",
+    "category": "primeval_history",
+    "first_book": "GEN",
+    "first_chapter": 1
+  },
+  "fall": {
+    "display": "Fall",
+    "category": "primeval_history",
+    "first_book": "GEN",
+    "first_chapter": 3
+  },
+  "flood": {
+    "display": "Flood",
+    "category": "primeval_history",
+    "first_book": "GEN",
+    "first_chapter": 6
+  },
+  "tower_of_babel": {
+    "display": "Tower of Babel",
+    "category": "primeval_history",
+    "first_book": "GEN",
+    "first_chapter": 11
+  },
+  "call_of_abraham": {
+    "display": "Call of Abraham",
+    "category": "patriarchs",
+    "first_book": "GEN",
+    "first_chapter": 12
+  },
+  "joseph_in_egypt": {
+    "display": "Joseph in Egypt",
+    "category": "patriarchs",
+    "first_book": "GEN",
+    "first_chapter": 37
+  },
+  "israel_in_egypt": {
+    "display": "Israel in Egypt",
+    "category": "exodus",
+    "first_book": "EXO",
+    "first_chapter": 1
+  },
+  "burning_bush": {
+    "display": "Burning Bush",
+    "category": "exodus",
+    "first_book": "EXO",
+    "first_chapter": 3
+  },
+  "passover": {
+    "display": "Passover",
+    "category": "exodus",
+    "first_book": "EXO",
+    "first_chapter": 12
+  },
+  "exodus": {
+    "display": "Exodus",
+    "category": "exodus",
+    "first_book": "EXO",
+    "first_chapter": 12
+  },
+  "red_sea_crossing": {
+    "display": "Crossing of the Red Sea",
+    "category": "exodus",
+    "first_book": "EXO",
+    "first_chapter": 14
+  },
+  "ten_commandments": {
+    "display": "Ten Commandments",
+    "category": "law",
+    "first_book": "EXO",
+    "first_chapter": 20
+  },
+  "sinai_covenant": {
+    "display": "Sinai Covenant",
+    "category": "law",
+    "first_book": "EXO",
+    "first_chapter": 19
+  },
+  "golden_calf": {
+    "display": "Golden Calf",
+    "category": "law",
+    "first_book": "EXO",
+    "first_chapter": 32
+  },
+  "tabernacle": {
+    "display": "Tabernacle",
+    "category": "law",
+    "first_book": "EXO",
+    "first_chapter": 25
+  }
+}

@@ -1,61 +1,73 @@
 {
-  "book": "Genesis",
+  "book": "GEN",
 
-  "chapter_rules": [
+  "rules": [
     {
       "range": [1, 2],
       "themes": [
-        "Creation - Schöpfung",
-        "Order - Ordnung"
+        "creation",
+        "providence"
       ],
       "events": [
-        "Creation - Schöpfung"
+        "creation"
       ]
     },
 
     {
       "range": [3, 3],
       "themes": [
-        "Fall - Sündenfall",
-        "Sin - Sünde"
+        "fall",
+        "judgment",
+        "grace"
       ],
       "events": [
-        "Fall - Sündenfall"
-      ]
-    },
-
-    {
-      "range": [4, 4],
-      "themes": [
-        "Sin - Sünde",
-        "Worship - Anbetung"
-      ],
-      "events": [
-        "First Murder - Erster Mord"
+        "fall"
       ]
     },
 
     {
       "range": [6, 9],
       "themes": [
-        "Judgment - Gericht",
-        "Covenant - Bund",
-        "Grace - Gnade"
+        "judgment",
+        "grace",
+        "covenant"
       ],
       "events": [
-        "Flood - Sintflut"
+        "flood"
+      ]
+    },
+
+    {
+      "range": [11, 11],
+      "themes": [
+        "judgment"
+      ],
+      "events": [
+        "tower_of_babel"
       ]
     },
 
     {
       "range": [12, 25],
       "themes": [
-        "Faith - Glaube",
-        "Promise - Verheißung",
-        "Covenant - Bund"
+        "faith",
+        "promise",
+        "covenant"
       ],
       "events": [
-        "Call of Abraham - Berufung Abrahams"
+        "call_of_abraham"
+      ]
+    },
+
+    {
+      "range": [37, 50],
+      "themes": [
+        "providence",
+        "faith",
+        "promise"
+      ],
+      "events": [
+        "joseph_in_egypt"
       ]
     }
   ]

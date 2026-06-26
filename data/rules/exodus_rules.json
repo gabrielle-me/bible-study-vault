@@ -1,35 +1,79 @@
 {
-  "chapter_rules": [
+  "book": "EXO",
+
+  "rules": [
     {
-      "range": [1, 18],
+      "range": [1, 4],
       "themes": [
-        "Deliverance - Befreiung",
-        "Oppression - Unterdrückung"
+        "deliverance",
+        "faith"
       ],
       "events": [
-        "Exodus - Auszug"
+        "israel_in_egypt",
+        "burning_bush"
+      ]
+    },
+
+    {
+      "range": [5, 15],
+      "themes": [
+        "deliverance",
+        "judgment",
+        "faith"
+      ],
+      "events": [
+        "passover",
+        "exodus",
+        "red_sea_crossing"
       ]
     },
 
     {
       "range": [19, 24],
       "themes": [
-        "Law - Gesetz",
-        "Covenant - Bund"
+        "covenant",
+        "law",
+        "holiness",
+        "obedience"
       ],
       "events": [
-        "Sinai Covenant - Sinai Bund"
+        "sinai_covenant",
+        "ten_commandments"
       ]
     },
 
     {
-      "range": [25, 40],
+      "range": [25, 31],
       "themes": [
-        "Worship - Anbetung",
-        "Presence - Gegenwart Gottes"
+        "worship",
+        "presence"
       ],
       "events": [
-        "Tabernacle - Stiftshütte"
+        "tabernacle"
+      ]
+    },
+
+    {
+      "range": [32, 34],
+      "themes": [
+        "judgment",
+        "grace",
+        "covenant"
+      ],
+      "events": [
+        "golden_calf"
+      ]
+    },
+
+    {
+      "range": [35, 40],
+      "themes": [
+        "worship",
+        "presence",
+        "obedience"
+      ],
+      "events": [
+        "tabernacle"
       ]
     }
   ]

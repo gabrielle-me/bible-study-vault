@@ -1,0 +1,45 @@
+{
+  "author": "Moses",
+
+  "chapters": 40,
+
+  "summary": "God delivers Israel from Egypt, establishes His covenant at Mount Sinai, gives the Law, and dwells among His people through the Tabernacle.",
+
+  "summary_de": "Gott befreit Israel aus Ägypten, schließt am Sinai seinen Bund, gibt das Gesetz und wohnt durch die Stiftshütte mitten unter seinem Volk.",
+
+  "themes": [
+    "deliverance",
+    "covenant",
+    "law",
+    "presence",
+    "worship",
+    "obedience"
+  ],
+
+  "people": [
+    "moses",
+    "aaron",
+    "miriam",
+    "pharaoh",
+    "joshua"
+  ],
+
+  "places": [
+    "egypt",
+    "red_sea",
+    "mount_sinai",
+    "wilderness_of_sinai"
+  ],
+
+  "key_events": [
+    "israel_in_egypt",
+    "burning_bush",
+    "passover",
+    "exodus",
+    "red_sea_crossing",
+    "ten_commandments",
+    "sinai_covenant",
+    "golden_calf",
+    "tabernacle"
+  ]
+}

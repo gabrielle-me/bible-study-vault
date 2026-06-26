@@ -1,6 +1,7 @@
 import json
 from pathlib import Path
 from jinja2 import Environment, FileSystemLoader
+from utils import translator
 
 # ----------------------------
 # PATHS

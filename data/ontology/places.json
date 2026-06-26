@@ -1,0 +1,37 @@
+{
+  "eden": {
+    "display": "Eden",
+    "first_book": "GEN",
+    "first_chapter": 2
+  },
+  "mesopotamia": {
+    "display": "Mesopotamia",
+    "first_book": "GEN",
+    "first_chapter": 11
+  },
+  "canaan": {
+    "display": "Canaan",
+    "first_book": "GEN",
+    "first_chapter": 11
+  },
+  "egypt": {
+    "display": "Egypt",
+    "first_book": "GEN",
+    "first_chapter": 12
+  },
+  "red_sea": {
+    "display": "Red Sea",
+    "first_book": "EXO",
+    "first_chapter": 13
+  },
+  "mount_sinai": {
+    "display": "Mount Sinai",
+    "first_book": "EXO",
+    "first_chapter": 19
+  },
+  "wilderness_of_sinai": {
+    "display": "Wilderness of Sinai",
+    "first_book": "EXO",
+    "first_chapter": 19
+  }
+}
