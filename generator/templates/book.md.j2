@@ -11,7 +11,10 @@
 ---
 
 ## Chapters
-(Generated separately in Chapter Engine)
+
+{% for i in range(1, chapters + 1) %}
+- [[{{ title }} {{ i }}]]
+{% endfor %}
 
 ---
 

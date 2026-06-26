@@ -2,12 +2,6 @@
 
 ## Themes
 
-- [[Covenant - Bund]]
-
-- [[Faith - Glaube]]
-
-- [[Promise - Verheißung]]
-
 
 ## People
 

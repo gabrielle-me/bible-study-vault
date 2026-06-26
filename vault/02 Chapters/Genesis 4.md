@@ -2,10 +2,6 @@
 
 ## Themes
 
-- [[Sin - Sünde]]
-
-- [[Worship - Anbetung]]
-
 
 ## People
 
@@ -24,8 +20,6 @@
 ## Events
 
 - [[Fall - Sündenfall]]
-
-- [[First Murder - Erster Mord]]
 
 
 ## Cross References

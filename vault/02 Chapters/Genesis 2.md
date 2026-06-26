@@ -2,10 +2,6 @@
 
 ## Themes
 
-- [[Creation - Schöpfung]]
-
-- [[Order - Ordnung]]
-
 
 ## People
 

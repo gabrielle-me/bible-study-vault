@@ -1,3 +1,0 @@
-# Home
-
-- [[Books MOC]]

@@ -1,70 +1,16 @@
-# Genesis (1. Mose)
+[[Home]] → [[Books MOC]] → [[Old Testament]]
+
+# Genesis / 1. Mose
 
 ## Overview
-- Author: Moses
-- Chapters: 50
 
-## Themes
-
-- [[Creation - Schöpfung]]
-
-- [[Fall - Sündenfall]]
-
-- [[Covenant - Bund]]
-
-- [[Faith - Glaube]]
-
-- [[Promise - Verheißung]]
-
-- [[Providence - Vorsehung]]
-
-
-## Key Figures
-
-- [[Adam]]
-
-- [[Eve]]
-
-- [[Noah]]
-
-- [[Abraham]]
-
-- [[Isaac]]
-
-- [[Jacob]]
-
-- [[Joseph]]
-
-
-## Places
-
-- [[Eden]]
-
-- [[Mesopotamia]]
-
-- [[Canaan]]
-
-- [[Egypt]]
-
-
-## Events
-
-- [[Creation - Schöpfung]]
-
-- [[Fall - Sündenfall]]
-
-- [[Flood - Sintflut]]
-
-- [[Tower of Babel - Turmbau zu Babel]]
-
-- [[Call of Abraham - Berufung Abrahams]]
-
-- [[Joseph in Egypt - Joseph in Ägypten]]
-
+**Author:** Moses  
+**Testament:** OT  
+**Chapters:** 50
 
 ---
 
-## 📖 Chapters
+## Chapters
 
 
 - [[Genesis 1]]
@@ -166,3 +112,51 @@
 - [[Genesis 49]]
 
 - [[Genesis 50]]
+
+
+---
+
+## Themes
+
+
+- [[creation]]
+
+- [[fall]]
+
+- [[covenant]]
+
+- [[faith]]
+
+- [[promise]]
+
+- [[providence]]
+
+
+---
+
+## Characters
+
+
+
+---
+
+## Places
+
+
+- [[eden]]
+
+- [[mesopotamia]]
+
+- [[canaan]]
+
+- [[egypt]]
+
+
+---
+
+## Notes
+
+---
+
+## 🟡 Personal Notes
+→ [[Genesis - Notes.md]]

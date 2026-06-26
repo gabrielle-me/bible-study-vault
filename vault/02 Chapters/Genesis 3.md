@@ -2,10 +2,6 @@
 
 ## Themes
 
-- [[Fall - Sündenfall]]
-
-- [[Sin - Sünde]]
-
 
 ## People
 

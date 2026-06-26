@@ -2,12 +2,6 @@
 
 ## Themes
 
-- [[Covenant - Bund]]
-
-- [[Grace - Gnade]]
-
-- [[Judgment - Gericht]]
-
 
 ## People
 
