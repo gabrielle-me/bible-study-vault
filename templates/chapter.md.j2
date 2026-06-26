@@ -1,0 +1,31 @@
+# {{ title }} (Genesis {{ chapter }})
+
+## Themes
+{% for t in themes %}
+- [[{{ t }}]]
+{% endfor %}
+
+## People
+{% for p in people %}
+- [[{{ p }}]]
+{% endfor %}
+
+## Places
+{% for pl in places %}
+- [[{{ pl }}]]
+{% endfor %}
+
+## Events
+{% for e in events %}
+- [[{{ e }}]]
+{% endfor %}
+
+## Cross References
+{% for x in cross_references %}
+- {{ x }}
+{% endfor %}
+
+---
+
+## 🟡 Personal Notes
+→ [[{{ user_notes_link }}]]

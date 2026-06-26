@@ -1,0 +1,36 @@
+{
+  "chapter_rules": [
+    {
+      "range": [1, 18],
+      "themes": [
+        "Deliverance - Befreiung",
+        "Oppression - Unterdrückung"
+      ],
+      "events": [
+        "Exodus - Auszug"
+      ]
+    },
+
+    {
+      "range": [19, 24],
+      "themes": [
+        "Law - Gesetz",
+        "Covenant - Bund"
+      ],
+      "events": [
+        "Sinai Covenant - Sinai Bund"
+      ]
+    },
+
+    {
+      "range": [25, 40],
+      "themes": [
+        "Worship - Anbetung",
+        "Presence - Gegenwart Gottes"
+      ],
+      "events": [
+        "Tabernacle - Stiftshütte"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "book": "Genesis",
+  "chapters": 50,
+
+  "anchors": [
+    {
+      "chapter": 1,
+      "event": "Creation - Schöpfung",
+      "people": ["God"],
+      "places": ["Eden"]
+    },
+
+    {
+      "chapter": 3,
+      "event": "Fall - Sündenfall",
+      "people": ["Adam", "Eve", "Serpent"],
+      "places": ["Eden"]
+    },
+
+    {
+      "chapter": 6,
+      "event": "Flood - Sintflut",
+      "people": ["Noah"],
+      "places": []
+    },
+
+    {
+      "chapter": 12,
+      "event": "Call of Abraham - Berufung Abrahams",
+      "people": ["Abraham"],
+      "places": ["Canaan"]
+    },
+
+    {
+      "chapter": 37,
+      "event": "Joseph sold into Egypt - Joseph verkauft nach Ägypten",
+      "people": ["Joseph"],
+      "places": ["Egypt"]
+    }
+  ]
+}

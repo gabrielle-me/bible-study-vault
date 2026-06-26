@@ -1,0 +1,31 @@
+{
+  "id": "GEN-001",
+  "book": "GEN",
+  "chapter": 1,
+
+  "title": "Creation of the World",
+
+  "people": [
+    "God"
+  ],
+
+  "places": [
+    "Eden"
+  ],
+
+  "themes": [
+    "Creation - Schöpfung",
+    "Order - Ordnung",
+    "Power of God - Macht Gottes"
+  ],
+
+  "events": [
+    "Creation - Schöpfung"
+  ],
+
+  "cross_references": [
+    "John 1",
+    "Colossians 1",
+    "Hebrews 11"
+  ]
+}

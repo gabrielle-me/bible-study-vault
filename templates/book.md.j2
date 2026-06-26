@@ -1,0 +1,47 @@
+[[Home]] → [[Books MOC]] → [[Old Testament]]
+
+# {{ title }} / {{ title_de }}
+
+## Overview
+
+**Author:** {{ author }}  
+**Testament:** {{ testament }}  
+**Chapters:** {{ chapters }}
+
+---
+
+## Chapters
+(Generated separately in Chapter Engine)
+
+---
+
+## Themes
+
+{% for t in themes %}
+- [[{{ t }}]]
+{% endfor %}
+
+---
+
+## Characters
+
+{% for c in characters %}
+- [[{{ c }}]]
+{% endfor %}
+
+---
+
+## Places
+
+{% for p in places %}
+- [[{{ p }}]]
+{% endfor %}
+
+---
+
+## Notes
+
+---
+
+## 🟡 Personal Notes
+→ [[{{ user_notes_link }}]]

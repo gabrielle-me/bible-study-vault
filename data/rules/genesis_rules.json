@@ -1,0 +1,62 @@
+{
+  "book": "Genesis",
+
+  "chapter_rules": [
+    {
+      "range": [1, 2],
+      "themes": [
+        "Creation - Schöpfung",
+        "Order - Ordnung"
+      ],
+      "events": [
+        "Creation - Schöpfung"
+      ]
+    },
+
+    {
+      "range": [3, 3],
+      "themes": [
+        "Fall - Sündenfall",
+        "Sin - Sünde"
+      ],
+      "events": [
+        "Fall - Sündenfall"
+      ]
+    },
+
+    {
+      "range": [4, 4],
+      "themes": [
+        "Sin - Sünde",
+        "Worship - Anbetung"
+      ],
+      "events": [
+        "First Murder - Erster Mord"
+      ]
+    },
+
+    {
+      "range": [6, 9],
+      "themes": [
+        "Judgment - Gericht",
+        "Covenant - Bund",
+        "Grace - Gnade"
+      ],
+      "events": [
+        "Flood - Sintflut"
+      ]
+    },
+
+    {
+      "range": [12, 25],
+      "themes": [
+        "Faith - Glaube",
+        "Promise - Verheißung",
+        "Covenant - Bund"
+      ],
+      "events": [
+        "Call of Abraham - Berufung Abrahams"
+      ]
+    }
+  ]
+}

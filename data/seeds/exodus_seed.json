@@ -1,0 +1,34 @@
+{
+  "book": "Exodus",
+  "chapters": 40,
+
+  "anchors": [
+    {
+      "chapter": 1,
+      "event": "Israel in Egypt - Israel in Ägypten",
+      "people": ["Moses"],
+      "places": ["Egypt"]
+    },
+
+    {
+      "chapter": 3,
+      "event": "Burning Bush - Brennender Dornbusch",
+      "people": ["Moses"],
+      "places": ["Mount Sinai"]
+    },
+
+    {
+      "chapter": 12,
+      "event": "Passover - Passah",
+      "people": ["Moses"],
+      "places": ["Egypt"]
+    },
+
+    {
+      "chapter": 20,
+      "event": "Ten Commandments - Zehn Gebote",
+      "people": ["Moses"],
+      "places": ["Mount Sinai"]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# {{ title }} ({{ title_de }})
+
+## Overview
+- Author: {{ author }}
+- Chapters: {{ chapters }}
+
+## Themes
+{% for t in themes %}
+- [[{{ t }}]]
+{% endfor %}
+
+## Key Figures
+{% for c in characters %}
+- [[{{ c }}]]
+{% endfor %}
+
+## Places
+{% for p in places %}
+- [[{{ p }}]]
+{% endfor %}
+
+## Events
+{% for e in events %}
+- [[{{ e }}]]
+{% endfor %}
+
+---
+
+## 📖 Chapters
+
+{% for i in range(1, chapters + 1) %}
+- [[{{ title }} {{ i }}]]
+{% endfor %}
