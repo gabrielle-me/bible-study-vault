@@ -1,0 +1,160 @@
+[[Home]] → [[Books MOC]] → [[OT]] → [[Pentateuch]]
+
+# Exodus / 2. Mose
+
+---
+
+## Overview
+
+| Property | Value |
+|-----------|-------|
+| Author | Moses |
+| Testament | OT |
+| Group | Pentateuch |
+| Chapters | 40 |
+
+---
+
+## Chapters
+
+
+- [[Exodus 1]]
+
+- [[Exodus 2]]
+
+- [[Exodus 3]]
+
+- [[Exodus 4]]
+
+- [[Exodus 5]]
+
+- [[Exodus 6]]
+
+- [[Exodus 7]]
+
+- [[Exodus 8]]
+
+- [[Exodus 9]]
+
+- [[Exodus 10]]
+
+- [[Exodus 11]]
+
+- [[Exodus 12]]
+
+- [[Exodus 13]]
+
+- [[Exodus 14]]
+
+- [[Exodus 15]]
+
+- [[Exodus 16]]
+
+- [[Exodus 17]]
+
+- [[Exodus 18]]
+
+- [[Exodus 19]]
+
+- [[Exodus 20]]
+
+- [[Exodus 21]]
+
+- [[Exodus 22]]
+
+- [[Exodus 23]]
+
+- [[Exodus 24]]
+
+- [[Exodus 25]]
+
+- [[Exodus 26]]
+
+- [[Exodus 27]]
+
+- [[Exodus 28]]
+
+- [[Exodus 29]]
+
+- [[Exodus 30]]
+
+- [[Exodus 31]]
+
+- [[Exodus 32]]
+
+- [[Exodus 33]]
+
+- [[Exodus 34]]
+
+- [[Exodus 35]]
+
+- [[Exodus 36]]
+
+- [[Exodus 37]]
+
+- [[Exodus 38]]
+
+- [[Exodus 39]]
+
+- [[Exodus 40]]
+
+
+---
+
+## Themes
+
+
+- [[deliverance]]
+
+- [[covenant]]
+
+- [[law]]
+
+- [[presence]]
+
+- [[worship]]
+
+- [[obedience]]
+
+
+---
+
+## People
+
+
+- [[moses]]
+
+- [[aaron]]
+
+- [[miriam]]
+
+- [[pharaoh]]
+
+- [[joshua]]
+
+
+---
+
+## Places
+
+
+- [[egypt]]
+
+- [[red_sea]]
+
+- [[mount_sinai]]
+
+- [[wilderness_of_sinai]]
+
+
+---
+
+## Major Events
+
+
+
+---
+
+## Personal Study
+
+![[08 Study Notes/Exodus/Exodus]]

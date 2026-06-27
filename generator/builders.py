@@ -44,7 +44,7 @@ except ImportError:
 try:
     from .template_manager import templates
 except ImportError:
-    from generator.template_manager import templates
+    from template_manager import templates
 
 # ==========================================================
 # Helpers
@@ -75,6 +75,7 @@ def build_book(book: dict):
 
     data = dict(book)
 
+    data.setdefault("chapters", 0)
     data.setdefault("people", [])
     data.setdefault("places", [])
     data.setdefault("themes", [])
