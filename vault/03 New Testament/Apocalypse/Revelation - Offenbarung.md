@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Apocalypse]]
+[[Books MOC]] → [[NT]] → [[Apocalypse]]
 
 # Revelation / Offenbarung
 

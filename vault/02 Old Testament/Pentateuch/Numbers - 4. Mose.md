@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[OT]] → [[Pentateuch]]
+[[Books MOC]] → [[OT]] → [[Pentateuch]]
 
 # Numbers / 4. Mose
 

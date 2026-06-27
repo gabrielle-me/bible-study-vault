@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[OT]] → [[Major Prophets]]
+[[Books MOC]] → [[OT]] → [[Major Prophets]]
 
 # Lamentations / Klagelieder
 

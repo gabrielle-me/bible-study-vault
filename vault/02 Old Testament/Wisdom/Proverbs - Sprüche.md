@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[OT]] → [[Wisdom]]
+[[Books MOC]] → [[OT]] → [[Wisdom]]
 
 # Proverbs / Sprüche
 

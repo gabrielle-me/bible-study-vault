@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[General Epistles]]
+[[Books MOC]] → [[NT]] → [[General Epistles]]
 
 # Hebrews / Hebräer
 

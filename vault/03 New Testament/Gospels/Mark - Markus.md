@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Gospels]]
+[[Books MOC]] → [[NT]] → [[Gospels]]
 
 # Mark / Markus
 

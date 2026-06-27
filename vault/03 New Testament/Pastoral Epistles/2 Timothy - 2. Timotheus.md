@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Pastoral Epistles]]
+[[Books MOC]] → [[NT]] → [[Pastoral Epistles]]
 
 # 2 Timothy / 2. Timotheus
 

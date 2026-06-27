@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Pastoral Epistles]]
+[[Books MOC]] → [[NT]] → [[Pastoral Epistles]]
 
 # 1 Timothy / 1. Timotheus
 

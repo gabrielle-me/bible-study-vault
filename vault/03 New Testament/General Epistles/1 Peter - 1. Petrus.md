@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[General Epistles]]
+[[Books MOC]] → [[NT]] → [[General Epistles]]
 
 # 1 Peter / 1. Petrus
 

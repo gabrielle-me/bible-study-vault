@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Pauline Epistles]]
+[[Books MOC]] → [[NT]] → [[Pauline Epistles]]
 
 # 2 Thessalonians / 2. Thessalonicher
 

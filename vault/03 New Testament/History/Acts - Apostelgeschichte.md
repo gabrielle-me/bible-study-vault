@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[History]]
+[[Books MOC]] → [[NT]] → [[History]]
 
 # Acts / Apostelgeschichte
 

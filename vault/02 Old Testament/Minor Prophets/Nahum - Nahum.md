@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[OT]] → [[Minor Prophets]]
+[[Books MOC]] → [[OT]] → [[Minor Prophets]]
 
 # Nahum / Nahum
 

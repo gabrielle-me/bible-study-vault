@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Johannine Epistles]]
+[[Books MOC]] → [[NT]] → [[Johannine Epistles]]
 
 # 1 John / 1. Johannes
 

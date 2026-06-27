@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[NT]] → [[Pauline Epistles]]
+[[Books MOC]] → [[NT]] → [[Pauline Epistles]]
 
 # 1 Corinthians / 1. Korinther
 

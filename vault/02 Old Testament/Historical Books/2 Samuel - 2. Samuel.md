@@ -1,4 +1,4 @@
-[[Home]] → [[Books MOC]] → [[OT]] → [[Historical Books]]
+[[Books MOC]] → [[OT]] → [[Historical Books]]
 
 # 2 Samuel / 2. Samuel
 
