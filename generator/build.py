@@ -1,29 +1,77 @@
+"""
+Bible Study Vault Generator
+
+Entry point for generating the Obsidian vault.
+"""
+
 try:
-    from .builders import build_books, build_chapters
-    from .loaders import load_book, load_book_catalog
-except ImportError:  # pragma: no cover - allows direct script execution
-    from builders import build_books, build_chapters
-    from loaders import load_book, load_book_catalog
+    from .builders import (
+        build_books,
+        build_chapters,
+    )
+
+    from .loaders import (
+        load_book_catalog,
+    )
+
+except ImportError:  # Allows direct execution
+
+    from builders import (
+        build_books,
+        build_chapters,
+    )
+
+    from loaders import (
+        load_book_catalog,
+    )
 
 
-def build_all_books(catalog=None):
-    catalog = catalog or load_book_catalog()
+# ==========================================================
+# Chapter Builder
+# ==========================================================
 
-    for entry in catalog:
+def build_all_chapters(catalog):
+    """
+    Generates every chapter in the catalog.
+    """
+
+    for book in catalog:
+
         try:
-            build_chapters(entry["id"])
+
+            build_chapters(book["id"])
+
         except Exception as exc:
-            print(f"\n❌ ERROR generating {entry['title']}")
+
+            print(
+                f"\n❌ ERROR generating {book['title']}"
+            )
+
             print(exc)
             print()
 
-    return catalog
 
+# ==========================================================
+# Main
+# ==========================================================
 
 def main():
+
+    print("\n====================================")
+    print(" Bible Study Vault Generator")
+    print("====================================\n")
+
     catalog = load_book_catalog()
-    build_books(catalog)
-    build_all_books(catalog)
+
+    print("Generating books...\n")
+    build_books()
+
+    print("\nGenerating chapters...\n")
+    build_all_chapters(catalog)
+
+    print("\n====================================")
+    print(" Generation complete!")
+    print("====================================\n")
 
 
 if __name__ == "__main__":

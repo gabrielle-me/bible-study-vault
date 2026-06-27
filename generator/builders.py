@@ -1,82 +1,178 @@
+from pathlib import Path
+
 from jinja2 import Environment, FileSystemLoader
 
 try:
-    from .config import OUTPUT_DIR, TEMPLATE_DIR
-    from .engines import apply_rules, build_chapter_map
-    from .loaders import load_book, load_book_catalog, load_rules, load_seed
-    from .utils import display_name, normalize_book_name
-except ImportError:  # pragma: no cover - allows direct script execution
-    from config import OUTPUT_DIR, TEMPLATE_DIR
-    from engines import apply_rules, build_chapter_map
-    from loaders import load_book, load_book_catalog, load_rules, load_seed
-    from utils import display_name, normalize_book_name
+    from .config import (
+        TEMPLATE_DIR,
+        get_book_folder,
+        get_testament_folder,
+        ensure_directory,
+    )
+
+    from .loaders import (
+        load_book,
+        load_book_catalog,
+        load_seed,
+        load_rules,
+    )
+
+    from .engines import build_chapter_data
+
+except ImportError:
+    from config import (
+        TEMPLATE_DIR,
+        get_book_folder,
+        get_testament_folder,
+        ensure_directory,
+    )
+
+    from loaders import (
+        load_book,
+        load_book_catalog,
+        load_seed,
+        load_rules,
+    )
+
+    from engines import build_chapter_data
 
 
-env = Environment(loader=FileSystemLoader(str(TEMPLATE_DIR)))
-book_template = env.get_template("book.md.j2")
-chapter_template = env.get_template("chapter.md.j2")
+# ==========================================================
+# Templates
+# ==========================================================
+
+try:
+    from .template_manager import templates
+except ImportError:
+    from generator.template_manager import templates
+
+# ==========================================================
+# Helpers
+# ==========================================================
+
+def write_markdown(path: Path, content: str):
+
+    ensure_directory(path.parent)
+
+    path.write_text(
+        content,
+        encoding="utf-8",
+    )
 
 
-def build_books(catalog=None):
-    catalog = catalog or load_book_catalog()
+# ==========================================================
+# Book Builder
+# ==========================================================
 
-    for entry in catalog:
-        book = load_book(entry["id"])
-        book_data = dict(book)
-        book_data.setdefault("chapters", 0)
-        book_data.setdefault("themes", [])
-        book_data.setdefault("characters", [])
-        book_data.setdefault("places", [])
-        book_data["user_notes_link"] = f"{book_data['title']} - Notes.md"
+def build_book(book: dict):
 
-        output = book_template.render(**book_data)
+    output_folder = (
+        get_testament_folder(book)
+        / book["group"]
+    )
 
-        path = OUTPUT_DIR / "01 Books" / f"{book_data['title']}.md"
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(output, encoding="utf-8")
+    ensure_directory(output_folder)
 
-        print(f"Generated book {book_data['title']}")
+    data = dict(book)
 
-    return catalog
+    data.setdefault("people", [])
+    data.setdefault("places", [])
+    data.setdefault("themes", [])
+    data.setdefault("key_events", [])
 
+    data["user_notes_link"] = (
+        f"{book['title']} - Notes"
+    )
+
+    output = templates.get("book").render(**data)
+
+    write_markdown(
+        output_folder /
+        f"{book['title']} - {book['title_de']}.md",
+        output,
+    )
+
+    print(f"Generated {book['title']}")
+
+
+# ==========================================================
+# Chapter Builder
+# ==========================================================
 
 def build_chapters(book_id: str):
+
     book = load_book(book_id)
-    machine_name = normalize_book_name(book["title"])
-    human_name = display_name(book["title"])
 
     seed = load_seed(book["title"])
+
     rules = load_rules(book["title"])
 
-    chapter_map = build_chapter_map(seed)
+    chapter_folder = get_book_folder(book)
 
-    for chapter_num in range(1, seed["chapters"] + 1):
-        data = chapter_map.get(
-            chapter_num,
-            {"people": [], "places": [], "events": []},
+    ensure_directory(chapter_folder)
+
+    for chapter_number in range(
+        1,
+        seed["chapters"] + 1,
+    ):
+
+        metadata = build_chapter_data(
+            chapter_number,
+            seed,
+            rules,
         )
 
-        rule_data = apply_rules(chapter_num, rules)
-
         chapter = {
-            "book": human_name,
-            "chapter": chapter_num,
-            "title": f"{human_name} {chapter_num}",
-            "people": data["people"],
-            "places": data["places"],
-            "themes": rule_data["themes"],
-            "events": sorted(set(data["events"] + rule_data["events"])),
+            "book": book["title"],
+
+            "chapter": chapter_number,
+
+            "title": (
+                f"{book['title']} "
+                f"{chapter_number}"
+            ),
+
+            "people": metadata["people"],
+
+            "places": metadata["places"],
+
+            "themes": metadata["themes"],
+
+            "events": metadata["events"],
+
             "cross_references": [],
-            "user_notes_link": f"{human_name} {chapter_num} - Notes.md",
+
+            "user_notes_link":
+                f"{book['title']} {chapter_number}",
         }
 
-        output = chapter_template.render(**chapter)
+        output = templates.get("chapter").render(**chapter)
 
-        path = OUTPUT_DIR / "02 Chapters" / f"{human_name} {chapter_num}.md"
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(output, encoding="utf-8")
+        write_markdown(
 
-        print(f"Generated chapter {human_name} {chapter_num}")
+            chapter_folder /
+            f"{book['title']} {chapter_number}.md",
 
-    return None
+            output,
+        )
 
+    print(
+        f"Generated {book['title']} chapters"
+    )
+
+
+# ==========================================================
+# Full Builder
+# ==========================================================
+
+def build_books():
+
+    catalog = load_book_catalog()
+
+    for entry in catalog:
+
+        build_book(
+            load_book(entry["id"])
+        )
+
+    return catalog
