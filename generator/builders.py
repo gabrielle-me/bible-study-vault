@@ -82,7 +82,7 @@ def build_book(book: dict):
     data.setdefault("key_events", [])
 
     data["user_notes_link"] = (
-        f"{book['title']} - Notes"
+        f"08 Study Notes/{book['title']}/{book['title']} Notes"
     )
 
     output = templates.get("book").render(**data)
@@ -144,7 +144,7 @@ def build_chapters(book_id: str):
             "cross_references": [],
 
             "user_notes_link":
-                f"{book['title']} {chapter_number}",
+                f"08 Study Notes/{book['title']}/{book['title']} {chapter_number}",
         }
 
         output = templates.get("chapter").render(**chapter)
