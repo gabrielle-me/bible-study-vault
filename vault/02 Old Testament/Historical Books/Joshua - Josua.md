@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Joshua/Joshua]]
+→ [[08 Study Notes/Joshua/Joshua Notes]]

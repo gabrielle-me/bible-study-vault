@@ -1,4 +1,4 @@
-# Exodus 15 (Genesis 15)
+# Exodus 15
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 15]]
+→ [[08 Study Notes/Exodus/Exodus 15]]

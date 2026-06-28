@@ -1,4 +1,4 @@
-# Exodus 13 (Genesis 13)
+# Exodus 13
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 13]]
+→ [[08 Study Notes/Exodus/Exodus 13]]

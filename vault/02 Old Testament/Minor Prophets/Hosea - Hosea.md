@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Hosea/Hosea]]
+→ [[08 Study Notes/Hosea/Hosea Notes]]

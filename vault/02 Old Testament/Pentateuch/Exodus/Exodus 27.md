@@ -1,4 +1,4 @@
-# Exodus 27 (Genesis 27)
+# Exodus 27
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 27]]
+→ [[08 Study Notes/Exodus/Exodus 27]]

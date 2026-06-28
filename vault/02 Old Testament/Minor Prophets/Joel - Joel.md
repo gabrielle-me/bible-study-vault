@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Joel/Joel]]
+→ [[08 Study Notes/Joel/Joel Notes]]

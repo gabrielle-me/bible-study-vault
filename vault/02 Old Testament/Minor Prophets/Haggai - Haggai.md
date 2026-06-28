@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Haggai/Haggai]]
+→ [[08 Study Notes/Haggai/Haggai Notes]]

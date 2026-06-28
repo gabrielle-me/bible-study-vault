@@ -1,4 +1,4 @@
-# Genesis 13 (Genesis 13)
+# Genesis 13
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 13]]
+→ [[08 Study Notes/Genesis/Genesis 13]]

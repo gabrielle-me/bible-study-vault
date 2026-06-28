@@ -1,4 +1,4 @@
-# Genesis 7 (Genesis 7)
+# Genesis 7
 
 ## Themes
 
@@ -22,4 +22,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 7]]
+→ [[08 Study Notes/Genesis/Genesis 7]]

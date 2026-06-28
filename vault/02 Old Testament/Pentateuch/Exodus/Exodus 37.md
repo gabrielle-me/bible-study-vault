@@ -1,4 +1,4 @@
-# Exodus 37 (Genesis 37)
+# Exodus 37
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 37]]
+→ [[08 Study Notes/Exodus/Exodus 37]]

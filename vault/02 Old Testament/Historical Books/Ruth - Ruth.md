@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Ruth/Ruth]]
+→ [[08 Study Notes/Ruth/Ruth Notes]]

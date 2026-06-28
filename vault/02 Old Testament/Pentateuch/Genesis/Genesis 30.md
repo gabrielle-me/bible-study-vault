@@ -1,4 +1,4 @@
-# Genesis 30 (Genesis 30)
+# Genesis 30
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 30]]
+→ [[08 Study Notes/Genesis/Genesis 30]]

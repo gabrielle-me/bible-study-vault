@@ -1,4 +1,4 @@
-# Exodus 30 (Genesis 30)
+# Exodus 30
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 30]]
+→ [[08 Study Notes/Exodus/Exodus 30]]

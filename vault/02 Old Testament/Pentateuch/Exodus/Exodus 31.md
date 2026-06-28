@@ -1,4 +1,4 @@
-# Exodus 31 (Genesis 31)
+# Exodus 31
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 31]]
+→ [[08 Study Notes/Exodus/Exodus 31]]

@@ -1,4 +1,4 @@
-# Genesis 42 (Genesis 42)
+# Genesis 42
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 42]]
+→ [[08 Study Notes/Genesis/Genesis 42]]

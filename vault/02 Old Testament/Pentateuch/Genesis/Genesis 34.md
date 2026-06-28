@@ -1,4 +1,4 @@
-# Genesis 34 (Genesis 34)
+# Genesis 34
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 34]]
+→ [[08 Study Notes/Genesis/Genesis 34]]

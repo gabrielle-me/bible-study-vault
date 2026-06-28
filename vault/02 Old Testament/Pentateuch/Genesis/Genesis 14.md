@@ -1,4 +1,4 @@
-# Genesis 14 (Genesis 14)
+# Genesis 14
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 14]]
+→ [[08 Study Notes/Genesis/Genesis 14]]

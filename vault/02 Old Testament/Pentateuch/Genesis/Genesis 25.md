@@ -1,4 +1,4 @@
-# Genesis 25 (Genesis 25)
+# Genesis 25
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 25]]
+→ [[08 Study Notes/Genesis/Genesis 25]]

@@ -1,4 +1,4 @@
-# Exodus 26 (Genesis 26)
+# Exodus 26
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 26]]
+→ [[08 Study Notes/Exodus/Exodus 26]]

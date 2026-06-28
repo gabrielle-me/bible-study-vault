@@ -1,4 +1,4 @@
-# Genesis 9 (Genesis 9)
+# Genesis 9
 
 ## Themes
 
@@ -22,4 +22,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 9]]
+→ [[08 Study Notes/Genesis/Genesis 9]]

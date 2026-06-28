@@ -1,4 +1,4 @@
-# Genesis 1 (Genesis 1)
+# Genesis 1
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 1]]
+→ [[08 Study Notes/Genesis/Genesis 1]]

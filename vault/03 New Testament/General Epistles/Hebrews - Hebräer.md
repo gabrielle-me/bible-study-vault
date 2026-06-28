@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Hebrews/Hebrews]]
+→ [[08 Study Notes/Hebrews/Hebrews Notes]]

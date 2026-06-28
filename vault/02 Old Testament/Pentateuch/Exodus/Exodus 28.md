@@ -1,4 +1,4 @@
-# Exodus 28 (Genesis 28)
+# Exodus 28
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 28]]
+→ [[08 Study Notes/Exodus/Exodus 28]]

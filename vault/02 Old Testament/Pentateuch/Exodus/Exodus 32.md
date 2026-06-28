@@ -1,4 +1,4 @@
-# Exodus 32 (Genesis 32)
+# Exodus 32
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 32]]
+→ [[08 Study Notes/Exodus/Exodus 32]]

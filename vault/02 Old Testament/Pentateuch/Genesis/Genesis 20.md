@@ -1,4 +1,4 @@
-# Genesis 20 (Genesis 20)
+# Genesis 20
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 20]]
+→ [[08 Study Notes/Genesis/Genesis 20]]

@@ -1,4 +1,4 @@
-# Exodus 16 (Genesis 16)
+# Exodus 16
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 16]]
+→ [[08 Study Notes/Exodus/Exodus 16]]

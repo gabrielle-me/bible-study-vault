@@ -1,4 +1,4 @@
-# Genesis 11 (Genesis 11)
+# Genesis 11
 
 ## Themes
 
@@ -22,4 +22,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 11]]
+→ [[08 Study Notes/Genesis/Genesis 11]]

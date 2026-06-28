@@ -1,4 +1,4 @@
-# Genesis 29 (Genesis 29)
+# Genesis 29
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 29]]
+→ [[08 Study Notes/Genesis/Genesis 29]]

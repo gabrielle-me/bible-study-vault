@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Malachi/Malachi]]
+→ [[08 Study Notes/Malachi/Malachi Notes]]

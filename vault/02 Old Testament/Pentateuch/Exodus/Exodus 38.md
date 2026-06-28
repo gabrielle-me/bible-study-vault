@@ -1,4 +1,4 @@
-# Exodus 38 (Genesis 38)
+# Exodus 38
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 38]]
+→ [[08 Study Notes/Exodus/Exodus 38]]

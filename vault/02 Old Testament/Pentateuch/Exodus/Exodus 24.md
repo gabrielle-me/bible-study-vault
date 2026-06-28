@@ -1,4 +1,4 @@
-# Exodus 24 (Genesis 24)
+# Exodus 24
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 24]]
+→ [[08 Study Notes/Exodus/Exodus 24]]

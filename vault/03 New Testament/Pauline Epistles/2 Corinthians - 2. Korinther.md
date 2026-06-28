@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/2 Corinthians/2 Corinthians]]
+→ [[08 Study Notes/2 Corinthians/2 Corinthians Notes]]

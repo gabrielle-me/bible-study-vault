@@ -1,4 +1,4 @@
-# Exodus 19 (Genesis 19)
+# Exodus 19
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 19]]
+→ [[08 Study Notes/Exodus/Exodus 19]]

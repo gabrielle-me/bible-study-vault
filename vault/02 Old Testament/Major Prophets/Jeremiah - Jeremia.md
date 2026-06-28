@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Jeremiah/Jeremiah]]
+→ [[08 Study Notes/Jeremiah/Jeremiah Notes]]

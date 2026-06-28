@@ -1,4 +1,4 @@
-# Exodus 36 (Genesis 36)
+# Exodus 36
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 36]]
+→ [[08 Study Notes/Exodus/Exodus 36]]

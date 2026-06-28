@@ -1,4 +1,4 @@
-# Exodus 35 (Genesis 35)
+# Exodus 35
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 35]]
+→ [[08 Study Notes/Exodus/Exodus 35]]

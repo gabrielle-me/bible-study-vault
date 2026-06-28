@@ -1,4 +1,4 @@
-# Genesis 6 (Genesis 6)
+# Genesis 6
 
 ## Themes
 
@@ -22,4 +22,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 6]]
+→ [[08 Study Notes/Genesis/Genesis 6]]

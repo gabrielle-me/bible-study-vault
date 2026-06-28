@@ -1,4 +1,4 @@
-# Exodus 6 (Genesis 6)
+# Exodus 6
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 6]]
+→ [[08 Study Notes/Exodus/Exodus 6]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/1 John/1 John]]
+→ [[08 Study Notes/1 John/1 John Notes]]

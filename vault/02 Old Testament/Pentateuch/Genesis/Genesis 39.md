@@ -1,4 +1,4 @@
-# Genesis 39 (Genesis 39)
+# Genesis 39
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 39]]
+→ [[08 Study Notes/Genesis/Genesis 39]]

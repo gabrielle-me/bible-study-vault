@@ -1,4 +1,4 @@
-# Genesis 40 (Genesis 40)
+# Genesis 40
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 40]]
+→ [[08 Study Notes/Genesis/Genesis 40]]

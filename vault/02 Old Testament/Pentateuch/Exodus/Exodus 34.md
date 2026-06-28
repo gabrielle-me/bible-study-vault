@@ -1,4 +1,4 @@
-# Exodus 34 (Genesis 34)
+# Exodus 34
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 34]]
+→ [[08 Study Notes/Exodus/Exodus 34]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/1 Thessalonians/1 Thessalonians]]
+→ [[08 Study Notes/1 Thessalonians/1 Thessalonians Notes]]

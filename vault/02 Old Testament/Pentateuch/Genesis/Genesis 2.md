@@ -1,4 +1,4 @@
-# Genesis 2 (Genesis 2)
+# Genesis 2
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 2]]
+→ [[08 Study Notes/Genesis/Genesis 2]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Song of Solomon/Song of Solomon]]
+→ [[08 Study Notes/Song of Solomon/Song of Solomon Notes]]

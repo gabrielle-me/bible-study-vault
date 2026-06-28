@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/1 Kings/1 Kings]]
+→ [[08 Study Notes/1 Kings/1 Kings Notes]]

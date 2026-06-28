@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Revelation/Revelation]]
+→ [[08 Study Notes/Revelation/Revelation Notes]]

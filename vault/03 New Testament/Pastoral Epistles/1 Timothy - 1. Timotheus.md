@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/1 Timothy/1 Timothy]]
+→ [[08 Study Notes/1 Timothy/1 Timothy Notes]]

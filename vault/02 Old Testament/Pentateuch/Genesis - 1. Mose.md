@@ -181,4 +181,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Genesis/Genesis]]
+→ [[08 Study Notes/Genesis/Genesis Notes]]

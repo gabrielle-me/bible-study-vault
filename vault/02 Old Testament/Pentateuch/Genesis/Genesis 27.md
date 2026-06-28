@@ -1,4 +1,4 @@
-# Genesis 27 (Genesis 27)
+# Genesis 27
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 27]]
+→ [[08 Study Notes/Genesis/Genesis 27]]

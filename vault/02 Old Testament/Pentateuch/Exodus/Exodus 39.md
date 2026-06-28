@@ -1,4 +1,4 @@
-# Exodus 39 (Genesis 39)
+# Exodus 39
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 39]]
+→ [[08 Study Notes/Exodus/Exodus 39]]

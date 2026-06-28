@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Nehemiah/Nehemiah]]
+→ [[08 Study Notes/Nehemiah/Nehemiah Notes]]

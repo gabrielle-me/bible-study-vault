@@ -1,4 +1,4 @@
-# Genesis 47 (Genesis 47)
+# Genesis 47
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 47]]
+→ [[08 Study Notes/Genesis/Genesis 47]]

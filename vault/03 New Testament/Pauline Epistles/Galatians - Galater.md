@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Galatians/Galatians]]
+→ [[08 Study Notes/Galatians/Galatians Notes]]

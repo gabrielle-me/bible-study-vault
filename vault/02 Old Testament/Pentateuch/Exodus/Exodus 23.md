@@ -1,4 +1,4 @@
-# Exodus 23 (Genesis 23)
+# Exodus 23
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 23]]
+→ [[08 Study Notes/Exodus/Exodus 23]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Job/Job]]
+→ [[08 Study Notes/Job/Job Notes]]

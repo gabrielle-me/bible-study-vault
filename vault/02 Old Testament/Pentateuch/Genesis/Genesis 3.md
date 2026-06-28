@@ -1,4 +1,4 @@
-# Genesis 3 (Genesis 3)
+# Genesis 3
 
 ## Themes
 
@@ -28,4 +28,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 3]]
+→ [[08 Study Notes/Genesis/Genesis 3]]

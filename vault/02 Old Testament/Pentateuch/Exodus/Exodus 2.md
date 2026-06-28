@@ -1,4 +1,4 @@
-# Exodus 2 (Genesis 2)
+# Exodus 2
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 2]]
+→ [[08 Study Notes/Exodus/Exodus 2]]

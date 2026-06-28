@@ -1,4 +1,4 @@
-# Exodus 29 (Genesis 29)
+# Exodus 29
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 29]]
+→ [[08 Study Notes/Exodus/Exodus 29]]

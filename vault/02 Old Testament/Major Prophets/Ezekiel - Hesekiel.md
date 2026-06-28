@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Ezekiel/Ezekiel]]
+→ [[08 Study Notes/Ezekiel/Ezekiel Notes]]

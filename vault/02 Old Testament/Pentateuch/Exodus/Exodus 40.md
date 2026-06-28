@@ -1,4 +1,4 @@
-# Exodus 40 (Genesis 40)
+# Exodus 40
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 40]]
+→ [[08 Study Notes/Exodus/Exodus 40]]

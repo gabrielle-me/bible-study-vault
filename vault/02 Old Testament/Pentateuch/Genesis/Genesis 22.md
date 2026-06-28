@@ -1,4 +1,4 @@
-# Genesis 22 (Genesis 22)
+# Genesis 22
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 22]]
+→ [[08 Study Notes/Genesis/Genesis 22]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Habakkuk/Habakkuk]]
+→ [[08 Study Notes/Habakkuk/Habakkuk Notes]]

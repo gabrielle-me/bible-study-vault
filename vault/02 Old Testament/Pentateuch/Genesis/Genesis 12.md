@@ -1,4 +1,4 @@
-# Genesis 12 (Genesis 12)
+# Genesis 12
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 12]]
+→ [[08 Study Notes/Genesis/Genesis 12]]

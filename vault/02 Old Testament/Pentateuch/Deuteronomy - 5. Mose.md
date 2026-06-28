@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Deuteronomy/Deuteronomy]]
+→ [[08 Study Notes/Deuteronomy/Deuteronomy Notes]]

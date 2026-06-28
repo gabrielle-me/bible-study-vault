@@ -1,4 +1,4 @@
-# Genesis 46 (Genesis 46)
+# Genesis 46
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 46]]
+→ [[08 Study Notes/Genesis/Genesis 46]]

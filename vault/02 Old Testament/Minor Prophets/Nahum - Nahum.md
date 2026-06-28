@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Nahum/Nahum]]
+→ [[08 Study Notes/Nahum/Nahum Notes]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Esther/Esther]]
+→ [[08 Study Notes/Esther/Esther Notes]]

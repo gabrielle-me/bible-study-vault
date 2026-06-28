@@ -1,4 +1,4 @@
-# Exodus 33 (Genesis 33)
+# Exodus 33
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 33]]
+→ [[08 Study Notes/Exodus/Exodus 33]]

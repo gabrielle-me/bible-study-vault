@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Obadiah/Obadiah]]
+→ [[08 Study Notes/Obadiah/Obadiah Notes]]

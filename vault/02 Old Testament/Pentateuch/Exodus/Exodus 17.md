@@ -1,4 +1,4 @@
-# Exodus 17 (Genesis 17)
+# Exodus 17
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 17]]
+→ [[08 Study Notes/Exodus/Exodus 17]]

@@ -1,4 +1,4 @@
-# Genesis 26 (Genesis 26)
+# Genesis 26
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 26]]
+→ [[08 Study Notes/Genesis/Genesis 26]]

@@ -1,4 +1,4 @@
-# Exodus 14 (Genesis 14)
+# Exodus 14
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 14]]
+→ [[08 Study Notes/Exodus/Exodus 14]]

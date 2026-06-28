@@ -157,4 +157,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Exodus/Exodus]]
+→ [[08 Study Notes/Exodus/Exodus Notes]]

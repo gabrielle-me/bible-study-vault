@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Zephaniah/Zephaniah]]
+→ [[08 Study Notes/Zephaniah/Zephaniah Notes]]

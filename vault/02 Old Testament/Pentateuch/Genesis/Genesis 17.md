@@ -1,4 +1,4 @@
-# Genesis 17 (Genesis 17)
+# Genesis 17
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 17]]
+→ [[08 Study Notes/Genesis/Genesis 17]]

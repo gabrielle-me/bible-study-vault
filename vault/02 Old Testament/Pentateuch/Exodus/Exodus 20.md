@@ -1,4 +1,4 @@
-# Exodus 20 (Genesis 20)
+# Exodus 20
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 20]]
+→ [[08 Study Notes/Exodus/Exodus 20]]

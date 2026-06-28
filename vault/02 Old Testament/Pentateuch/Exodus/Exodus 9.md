@@ -1,4 +1,4 @@
-# Exodus 9 (Genesis 9)
+# Exodus 9
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 9]]
+→ [[08 Study Notes/Exodus/Exodus 9]]

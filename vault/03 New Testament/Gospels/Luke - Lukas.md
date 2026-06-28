@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Luke/Luke]]
+→ [[08 Study Notes/Luke/Luke Notes]]

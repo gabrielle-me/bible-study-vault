@@ -1,4 +1,4 @@
-# Exodus 5 (Genesis 5)
+# Exodus 5
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 5]]
+→ [[08 Study Notes/Exodus/Exodus 5]]

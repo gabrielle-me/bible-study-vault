@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Ephesians/Ephesians]]
+→ [[08 Study Notes/Ephesians/Ephesians Notes]]

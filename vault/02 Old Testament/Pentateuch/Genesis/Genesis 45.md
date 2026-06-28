@@ -1,4 +1,4 @@
-# Genesis 45 (Genesis 45)
+# Genesis 45
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 45]]
+→ [[08 Study Notes/Genesis/Genesis 45]]

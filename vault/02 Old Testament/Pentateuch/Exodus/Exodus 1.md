@@ -1,4 +1,4 @@
-# Exodus 1 (Genesis 1)
+# Exodus 1
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 1]]
+→ [[08 Study Notes/Exodus/Exodus 1]]

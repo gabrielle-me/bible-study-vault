@@ -1,4 +1,4 @@
-# Genesis 4 (Genesis 4)
+# Genesis 4
 
 ## Themes
 
@@ -28,4 +28,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 4]]
+→ [[08 Study Notes/Genesis/Genesis 4]]

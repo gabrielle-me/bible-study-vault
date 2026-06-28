@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Jonah/Jonah]]
+→ [[08 Study Notes/Jonah/Jonah Notes]]

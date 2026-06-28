@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Proverbs/Proverbs]]
+→ [[08 Study Notes/Proverbs/Proverbs Notes]]

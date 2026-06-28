@@ -1,4 +1,4 @@
-# Genesis 10 (Genesis 10)
+# Genesis 10
 
 ## Themes
 
@@ -22,4 +22,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 10]]
+→ [[08 Study Notes/Genesis/Genesis 10]]

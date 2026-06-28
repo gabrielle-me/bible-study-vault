@@ -1,4 +1,4 @@
-# Genesis 32 (Genesis 32)
+# Genesis 32
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 32]]
+→ [[08 Study Notes/Genesis/Genesis 32]]

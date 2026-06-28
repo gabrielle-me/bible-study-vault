@@ -1,4 +1,4 @@
-# Genesis 48 (Genesis 48)
+# Genesis 48
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 48]]
+→ [[08 Study Notes/Genesis/Genesis 48]]

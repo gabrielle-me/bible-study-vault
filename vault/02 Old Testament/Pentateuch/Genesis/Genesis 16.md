@@ -1,4 +1,4 @@
-# Genesis 16 (Genesis 16)
+# Genesis 16
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 16]]
+→ [[08 Study Notes/Genesis/Genesis 16]]

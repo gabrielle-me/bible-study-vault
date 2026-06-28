@@ -1,4 +1,4 @@
-# Genesis 5 (Genesis 5)
+# Genesis 5
 
 ## Themes
 
@@ -28,4 +28,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 5]]
+→ [[08 Study Notes/Genesis/Genesis 5]]

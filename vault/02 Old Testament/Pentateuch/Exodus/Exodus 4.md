@@ -1,4 +1,4 @@
-# Exodus 4 (Genesis 4)
+# Exodus 4
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 4]]
+→ [[08 Study Notes/Exodus/Exodus 4]]

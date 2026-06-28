@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Romans/Romans]]
+→ [[08 Study Notes/Romans/Romans Notes]]

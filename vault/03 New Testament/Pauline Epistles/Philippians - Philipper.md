@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Philippians/Philippians]]
+→ [[08 Study Notes/Philippians/Philippians Notes]]

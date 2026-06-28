@@ -1,4 +1,4 @@
-# Genesis 8 (Genesis 8)
+# Genesis 8
 
 ## Themes
 
@@ -22,4 +22,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 8]]
+→ [[08 Study Notes/Genesis/Genesis 8]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Judges/Judges]]
+→ [[08 Study Notes/Judges/Judges Notes]]

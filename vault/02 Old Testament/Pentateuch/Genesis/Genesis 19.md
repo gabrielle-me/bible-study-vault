@@ -1,4 +1,4 @@
-# Genesis 19 (Genesis 19)
+# Genesis 19
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 19]]
+→ [[08 Study Notes/Genesis/Genesis 19]]

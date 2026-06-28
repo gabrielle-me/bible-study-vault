@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Titus/Titus]]
+→ [[08 Study Notes/Titus/Titus Notes]]

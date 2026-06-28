@@ -1,4 +1,4 @@
-# Genesis 33 (Genesis 33)
+# Genesis 33
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 33]]
+→ [[08 Study Notes/Genesis/Genesis 33]]

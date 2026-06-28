@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Mark/Mark]]
+→ [[08 Study Notes/Mark/Mark Notes]]

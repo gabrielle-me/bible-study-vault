@@ -1,4 +1,4 @@
-# Genesis 50 (Genesis 50)
+# Genesis 50
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 50]]
+→ [[08 Study Notes/Genesis/Genesis 50]]

@@ -1,4 +1,4 @@
-# Genesis 31 (Genesis 31)
+# Genesis 31
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 31]]
+→ [[08 Study Notes/Genesis/Genesis 31]]

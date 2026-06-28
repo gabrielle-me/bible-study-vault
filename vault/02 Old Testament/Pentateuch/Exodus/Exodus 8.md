@@ -1,4 +1,4 @@
-# Exodus 8 (Genesis 8)
+# Exodus 8
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 8]]
+→ [[08 Study Notes/Exodus/Exodus 8]]

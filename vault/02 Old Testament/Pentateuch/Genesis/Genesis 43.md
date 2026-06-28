@@ -1,4 +1,4 @@
-# Genesis 43 (Genesis 43)
+# Genesis 43
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 43]]
+→ [[08 Study Notes/Genesis/Genesis 43]]

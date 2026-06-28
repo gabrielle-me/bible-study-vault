@@ -1,4 +1,4 @@
-# Genesis 28 (Genesis 28)
+# Genesis 28
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 28]]
+→ [[08 Study Notes/Genesis/Genesis 28]]

@@ -1,4 +1,4 @@
-# Exodus 10 (Genesis 10)
+# Exodus 10
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 10]]
+→ [[08 Study Notes/Exodus/Exodus 10]]

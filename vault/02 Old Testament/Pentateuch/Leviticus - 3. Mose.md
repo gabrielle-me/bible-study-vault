@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Leviticus/Leviticus]]
+→ [[08 Study Notes/Leviticus/Leviticus Notes]]

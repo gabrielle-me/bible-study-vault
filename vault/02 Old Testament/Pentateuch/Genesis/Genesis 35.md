@@ -1,4 +1,4 @@
-# Genesis 35 (Genesis 35)
+# Genesis 35
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 35]]
+→ [[08 Study Notes/Genesis/Genesis 35]]

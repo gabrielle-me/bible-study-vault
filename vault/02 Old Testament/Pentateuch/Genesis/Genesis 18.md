@@ -1,4 +1,4 @@
-# Genesis 18 (Genesis 18)
+# Genesis 18
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 18]]
+→ [[08 Study Notes/Genesis/Genesis 18]]

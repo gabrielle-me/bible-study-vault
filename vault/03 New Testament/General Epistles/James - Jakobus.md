@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/James/James]]
+→ [[08 Study Notes/James/James Notes]]

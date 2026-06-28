@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/1 Chronicles/1 Chronicles]]
+→ [[08 Study Notes/1 Chronicles/1 Chronicles Notes]]

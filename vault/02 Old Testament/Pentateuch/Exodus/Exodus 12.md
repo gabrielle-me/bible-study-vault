@@ -1,4 +1,4 @@
-# Exodus 12 (Genesis 12)
+# Exodus 12
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 12]]
+→ [[08 Study Notes/Exodus/Exodus 12]]

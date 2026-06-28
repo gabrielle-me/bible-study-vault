@@ -1,4 +1,4 @@
-# Exodus 22 (Genesis 22)
+# Exodus 22
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 22]]
+→ [[08 Study Notes/Exodus/Exodus 22]]

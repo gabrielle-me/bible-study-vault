@@ -1,4 +1,4 @@
-# Genesis 37 (Genesis 37)
+# Genesis 37
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 37]]
+→ [[08 Study Notes/Genesis/Genesis 37]]

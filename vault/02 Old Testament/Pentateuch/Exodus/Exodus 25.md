@@ -1,4 +1,4 @@
-# Exodus 25 (Genesis 25)
+# Exodus 25
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 25]]
+→ [[08 Study Notes/Exodus/Exodus 25]]

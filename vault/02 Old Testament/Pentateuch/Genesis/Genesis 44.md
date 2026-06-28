@@ -1,4 +1,4 @@
-# Genesis 44 (Genesis 44)
+# Genesis 44
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 44]]
+→ [[08 Study Notes/Genesis/Genesis 44]]

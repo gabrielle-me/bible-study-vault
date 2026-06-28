@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/2 Samuel/2 Samuel]]
+→ [[08 Study Notes/2 Samuel/2 Samuel Notes]]

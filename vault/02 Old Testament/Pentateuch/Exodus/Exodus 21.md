@@ -1,4 +1,4 @@
-# Exodus 21 (Genesis 21)
+# Exodus 21
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 21]]
+→ [[08 Study Notes/Exodus/Exodus 21]]

@@ -1,4 +1,4 @@
-# Exodus 7 (Genesis 7)
+# Exodus 7
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 7]]
+→ [[08 Study Notes/Exodus/Exodus 7]]

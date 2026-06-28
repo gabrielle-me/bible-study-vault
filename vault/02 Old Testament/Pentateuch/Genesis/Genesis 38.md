@@ -1,4 +1,4 @@
-# Genesis 38 (Genesis 38)
+# Genesis 38
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 38]]
+→ [[08 Study Notes/Genesis/Genesis 38]]

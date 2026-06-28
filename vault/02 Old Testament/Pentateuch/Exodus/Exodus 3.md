@@ -1,4 +1,4 @@
-# Exodus 3 (Genesis 3)
+# Exodus 3
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 3]]
+→ [[08 Study Notes/Exodus/Exodus 3]]

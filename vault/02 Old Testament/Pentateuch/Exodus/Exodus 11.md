@@ -1,4 +1,4 @@
-# Exodus 11 (Genesis 11)
+# Exodus 11
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Exodus 11]]
+→ [[08 Study Notes/Exodus/Exodus 11]]

@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Isaiah/Isaiah]]
+→ [[08 Study Notes/Isaiah/Isaiah Notes]]

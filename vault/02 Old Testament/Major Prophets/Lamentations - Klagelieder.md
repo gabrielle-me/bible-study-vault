@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Lamentations/Lamentations]]
+→ [[08 Study Notes/Lamentations/Lamentations Notes]]

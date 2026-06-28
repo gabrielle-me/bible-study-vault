@@ -1,4 +1,4 @@
-# Genesis 24 (Genesis 24)
+# Genesis 24
 
 ## Themes
 
@@ -24,4 +24,4 @@
 ---
 
 ## 🟡 Personal Notes
-→ [[Genesis 24]]
+→ [[08 Study Notes/Genesis/Genesis 24]]

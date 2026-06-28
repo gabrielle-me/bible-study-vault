@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-![[08 Study Notes/Daniel/Daniel]]
+→ [[08 Study Notes/Daniel/Daniel Notes]]
