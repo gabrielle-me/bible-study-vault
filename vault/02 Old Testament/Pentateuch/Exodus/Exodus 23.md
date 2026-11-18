@@ -1,6 +1,12 @@
-# Exodus 23
-
 ## Themes
+
+- [[covenant]]
+
+- [[law]]
+
+- [[holiness]]
+
+- [[obedience]]
 
 
 ## People
@@ -15,7 +21,9 @@
 
 ## Events
 
-- [[Ten Commandments - Zehn Gebote]]
+- [[ten_commandments]]
+
+- [[sinai_covenant]]
 
 
 ## Cross References

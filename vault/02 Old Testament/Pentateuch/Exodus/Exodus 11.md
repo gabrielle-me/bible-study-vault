@@ -1,6 +1,10 @@
-# Exodus 11
-
 ## Themes
+
+- [[deliverance]]
+
+- [[judgment]]
+
+- [[faith]]
 
 
 ## People
@@ -15,7 +19,13 @@
 
 ## Events
 
-- [[Burning Bush - Brennender Dornbusch]]
+- [[burning_bush]]
+
+- [[passover]]
+
+- [[exodus]]
+
+- [[red_sea_crossing]]
 
 
 ## Cross References

@@ -1,5 +1,3 @@
-# Genesis 30
-
 ## Themes
 
 
@@ -15,7 +13,7 @@
 
 ## Events
 
-- [[Call of Abraham - Berufung Abrahams]]
+- [[call_of_abraham]]
 
 
 ## Cross References

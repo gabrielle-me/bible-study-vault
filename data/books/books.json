@@ -4,7 +4,6 @@
     "id": "GEN",
     "file": "genesis.json",
     "title": "Genesis",
-    "title_de": "1. Mose",
     "testament": "OT",
     "group": "Pentateuch"
   },
@@ -13,7 +12,6 @@
     "id": "EXO",
     "file": "exodus.json",
     "title": "Exodus",
-    "title_de": "2. Mose",
     "testament": "OT",
     "group": "Pentateuch"
   },
@@ -22,7 +20,6 @@
     "id": "LEV",
     "file": "leviticus.json",
     "title": "Leviticus",
-    "title_de": "3. Mose",
     "testament": "OT",
     "group": "Pentateuch"
   },
@@ -31,7 +28,6 @@
     "id": "NUM",
     "file": "numbers.json",
     "title": "Numbers",
-    "title_de": "4. Mose",
     "testament": "OT",
     "group": "Pentateuch"
   },
@@ -40,7 +36,6 @@
     "id": "DEU",
     "file": "deuteronomy.json",
     "title": "Deuteronomy",
-    "title_de": "5. Mose",
     "testament": "OT",
     "group": "Pentateuch"
   },
@@ -49,7 +44,6 @@
     "id": "JOS",
     "file": "joshua.json",
     "title": "Joshua",
-    "title_de": "Josua",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -58,7 +52,6 @@
     "id": "JDG",
     "file": "judges.json",
     "title": "Judges",
-    "title_de": "Richter",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -67,7 +60,6 @@
     "id": "RUT",
     "file": "ruth.json",
     "title": "Ruth",
-    "title_de": "Ruth",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -76,7 +68,6 @@
     "id": "1SA",
     "file": "1_samuel.json",
     "title": "1 Samuel",
-    "title_de": "1. Samuel",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -85,7 +76,6 @@
     "id": "2SA",
     "file": "2_samuel.json",
     "title": "2 Samuel",
-    "title_de": "2. Samuel",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -94,7 +84,6 @@
     "id": "1KI",
     "file": "1_kings.json",
     "title": "1 Kings",
-    "title_de": "1. Könige",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -103,7 +92,6 @@
     "id": "2KI",
     "file": "2_kings.json",
     "title": "2 Kings",
-    "title_de": "2. Könige",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -112,7 +100,6 @@
     "id": "1CH",
     "file": "1_chronicles.json",
     "title": "1 Chronicles",
-    "title_de": "1. Chronik",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -121,7 +108,6 @@
     "id": "2CH",
     "file": "2_chronicles.json",
     "title": "2 Chronicles",
-    "title_de": "2. Chronik",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -130,7 +116,6 @@
     "id": "EZR",
     "file": "ezra.json",
     "title": "Ezra",
-    "title_de": "Esra",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -139,7 +124,6 @@
     "id": "NEH",
     "file": "nehemiah.json",
     "title": "Nehemiah",
-    "title_de": "Nehemia",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -148,7 +132,6 @@
     "id": "EST",
     "file": "esther.json",
     "title": "Esther",
-    "title_de": "Ester",
     "testament": "OT",
     "group": "Historical Books"
   },
@@ -157,7 +140,6 @@
     "id": "JOB",
     "file": "job.json",
     "title": "Job",
-    "title_de": "Hiob",
     "testament": "OT",
     "group": "Wisdom"
   },
@@ -166,7 +148,6 @@
     "id": "PSA",
     "file": "psalms.json",
     "title": "Psalms",
-    "title_de": "Psalmen",
     "testament": "OT",
     "group": "Wisdom"
   },
@@ -175,7 +156,6 @@
     "id": "PRO",
     "file": "proverbs.json",
     "title": "Proverbs",
-    "title_de": "Sprüche",
     "testament": "OT",
     "group": "Wisdom"
   },
@@ -184,7 +164,6 @@
     "id": "ECC",
     "file": "ecclesiastes.json",
     "title": "Ecclesiastes",
-    "title_de": "Prediger",
     "testament": "OT",
     "group": "Wisdom"
   },
@@ -193,7 +172,6 @@
     "id": "SNG",
     "file": "song_of_solomon.json",
     "title": "Song of Solomon",
-    "title_de": "Hohelied",
     "testament": "OT",
     "group": "Wisdom"
   },
@@ -202,7 +180,6 @@
     "id": "ISA",
     "file": "isaiah.json",
     "title": "Isaiah",
-    "title_de": "Jesaja",
     "testament": "OT",
     "group": "Major Prophets"
   },
@@ -211,7 +188,6 @@
     "id": "JER",
     "file": "jeremiah.json",
     "title": "Jeremiah",
-    "title_de": "Jeremia",
     "testament": "OT",
     "group": "Major Prophets"
   },
@@ -220,7 +196,6 @@
     "id": "LAM",
     "file": "lamentations.json",
     "title": "Lamentations",
-    "title_de": "Klagelieder",
     "testament": "OT",
     "group": "Major Prophets"
   },
@@ -229,7 +204,6 @@
     "id": "EZK",
     "file": "ezekiel.json",
     "title": "Ezekiel",
-    "title_de": "Hesekiel",
     "testament": "OT",
     "group": "Major Prophets"
   },
@@ -238,7 +212,6 @@
     "id": "DAN",
     "file": "daniel.json",
     "title": "Daniel",
-    "title_de": "Daniel",
     "testament": "OT",
     "group": "Major Prophets"
   },
@@ -247,7 +220,6 @@
     "id": "HOS",
     "file": "hosea.json",
     "title": "Hosea",
-    "title_de": "Hosea",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -256,7 +228,6 @@
     "id": "JOL",
     "file": "joel.json",
     "title": "Joel",
-    "title_de": "Joel",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -265,7 +236,6 @@
     "id": "AMO",
     "file": "amos.json",
     "title": "Amos",
-    "title_de": "Amos",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -274,7 +244,6 @@
     "id": "OBA",
     "file": "obadiah.json",
     "title": "Obadiah",
-    "title_de": "Obadja",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -283,7 +252,6 @@
     "id": "JON",
     "file": "jonah.json",
     "title": "Jonah",
-    "title_de": "Jona",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -292,7 +260,6 @@
     "id": "MIC",
     "file": "micah.json",
     "title": "Micah",
-    "title_de": "Micha",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -301,7 +268,6 @@
     "id": "NAM",
     "file": "nahum.json",
     "title": "Nahum",
-    "title_de": "Nahum",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -310,7 +276,6 @@
     "id": "HAB",
     "file": "habakkuk.json",
     "title": "Habakkuk",
-    "title_de": "Habakuk",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -319,7 +284,6 @@
     "id": "ZEP",
     "file": "zephaniah.json",
     "title": "Zephaniah",
-    "title_de": "Zefanja",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -328,7 +292,6 @@
     "id": "HAG",
     "file": "haggai.json",
     "title": "Haggai",
-    "title_de": "Haggai",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -337,7 +300,6 @@
     "id": "ZEC",
     "file": "zechariah.json",
     "title": "Zechariah",
-    "title_de": "Sacharja",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -346,7 +308,6 @@
     "id": "MAL",
     "file": "malachi.json",
     "title": "Malachi",
-    "title_de": "Maleachi",
     "testament": "OT",
     "group": "Minor Prophets"
   },
@@ -355,7 +316,6 @@
     "id": "MAT",
     "file": "matthew.json",
     "title": "Matthew",
-    "title_de": "Matthäus",
     "testament": "NT",
     "group": "Gospels"
   },
@@ -364,7 +324,6 @@
     "id": "MRK",
     "file": "mark.json",
     "title": "Mark",
-    "title_de": "Markus",
     "testament": "NT",
     "group": "Gospels"
   },
@@ -373,7 +332,6 @@
     "id": "LUK",
     "file": "luke.json",
     "title": "Luke",
-    "title_de": "Lukas",
     "testament": "NT",
     "group": "Gospels"
   },
@@ -382,7 +340,6 @@
     "id": "JHN",
     "file": "john.json",
     "title": "John",
-    "title_de": "Johannes",
     "testament": "NT",
     "group": "Gospels"
   },
@@ -391,7 +348,6 @@
     "id": "ACT",
     "file": "acts.json",
     "title": "Acts",
-    "title_de": "Apostelgeschichte",
     "testament": "NT",
     "group": "History"
   },
@@ -400,7 +356,6 @@
     "id": "ROM",
     "file": "romans.json",
     "title": "Romans",
-    "title_de": "Römer",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -409,7 +364,6 @@
     "id": "1CO",
     "file": "1_corinthians.json",
     "title": "1 Corinthians",
-    "title_de": "1. Korinther",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -418,7 +372,6 @@
     "id": "2CO",
     "file": "2_corinthians.json",
     "title": "2 Corinthians",
-    "title_de": "2. Korinther",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -427,7 +380,6 @@
     "id": "GAL",
     "file": "galatians.json",
     "title": "Galatians",
-    "title_de": "Galater",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -436,7 +388,6 @@
     "id": "EPH",
     "file": "ephesians.json",
     "title": "Ephesians",
-    "title_de": "Epheser",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -445,7 +396,6 @@
     "id": "PHP",
     "file": "philippians.json",
     "title": "Philippians",
-    "title_de": "Philipper",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -454,7 +404,6 @@
     "id": "COL",
     "file": "colossians.json",
     "title": "Colossians",
-    "title_de": "Kolosser",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -463,7 +412,6 @@
     "id": "1TH",
     "file": "1_thessalonians.json",
     "title": "1 Thessalonians",
-    "title_de": "1. Thessalonicher",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -472,7 +420,6 @@
     "id": "2TH",
     "file": "2_thessalonians.json",
     "title": "2 Thessalonians",
-    "title_de": "2. Thessalonicher",
     "testament": "NT",
     "group": "Pauline Epistles"
   },
@@ -481,7 +428,6 @@
     "id": "1TI",
     "file": "1_timothy.json",
     "title": "1 Timothy",
-    "title_de": "1. Timotheus",
     "testament": "NT",
     "group": "Pastoral Epistles"
   },
@@ -490,7 +436,6 @@
     "id": "2TI",
     "file": "2_timothy.json",
     "title": "2 Timothy",
-    "title_de": "2. Timotheus",
     "testament": "NT",
     "group": "Pastoral Epistles"
   },
@@ -499,7 +444,6 @@
     "id": "TIT",
     "file": "titus.json",
     "title": "Titus",
-    "title_de": "Titus",
     "testament": "NT",
     "group": "Pastoral Epistles"
   },
@@ -508,7 +452,6 @@
     "id": "PHM",
     "file": "philemon.json",
     "title": "Philemon",
-    "title_de": "Philemon",
     "testament": "NT",
     "group": "Pastoral Epistles"
   },
@@ -517,7 +460,6 @@
     "id": "HEB",
     "file": "hebrews.json",
     "title": "Hebrews",
-    "title_de": "Hebräer",
     "testament": "NT",
     "group": "General Epistles"
   },
@@ -526,7 +468,6 @@
     "id": "JAS",
     "file": "james.json",
     "title": "James",
-    "title_de": "Jakobus",
     "testament": "NT",
     "group": "General Epistles"
   },
@@ -535,7 +476,6 @@
     "id": "1PE",
     "file": "1_peter.json",
     "title": "1 Peter",
-    "title_de": "1. Petrus",
     "testament": "NT",
     "group": "General Epistles"
   },
@@ -544,7 +484,6 @@
     "id": "2PE",
     "file": "2_peter.json",
     "title": "2 Peter",
-    "title_de": "2. Petrus",
     "testament": "NT",
     "group": "General Epistles"
   },
@@ -553,7 +492,6 @@
     "id": "1JN",
     "file": "1_john.json",
     "title": "1 John",
-    "title_de": "1. Johannes",
     "testament": "NT",
     "group": "Johannine Epistles"
   },
@@ -562,7 +500,6 @@
     "id": "2JN",
     "file": "2_john.json",
     "title": "2 John",
-    "title_de": "2. Johannes",
     "testament": "NT",
     "group": "Johannine Epistles"
   },
@@ -571,7 +508,6 @@
     "id": "3JN",
     "file": "3_john.json",
     "title": "3 John",
-    "title_de": "3. Johannes",
     "testament": "NT",
     "group": "Johannine Epistles"
   },
@@ -580,7 +516,6 @@
     "id": "JUD",
     "file": "jude.json",
     "title": "Jude",
-    "title_de": "Judas",
     "testament": "NT",
     "group": "General Epistles"
   },
@@ -589,7 +524,6 @@
     "id": "REV",
     "file": "revelation.json",
     "title": "Revelation",
-    "title_de": "Offenbarung",
     "testament": "NT",
     "group": "Apocalypse"
   }

@@ -1,6 +1,10 @@
-# Exodus 32
-
 ## Themes
+
+- [[judgment]]
+
+- [[grace]]
+
+- [[covenant]]
 
 
 ## People
@@ -15,7 +19,9 @@
 
 ## Events
 
-- [[Ten Commandments - Zehn Gebote]]
+- [[ten_commandments]]
+
+- [[golden_calf]]
 
 
 ## Cross References

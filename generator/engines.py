@@ -48,7 +48,9 @@ def apply_rules(chapter: int, rules: Dict[str, Any]) -> Dict[str, List[str]]:
     themes: List[str] = []
     events: List[str] = []
 
-    for rule in rules.get("chapter_rules", []):
+    chapter_rules = rules.get("rules", rules.get("chapter_rules", []))
+
+    for rule in chapter_rules:
 
         start, end = rule["range"]
 

@@ -1,6 +1,6 @@
-[[Books MOC]] → [[NT]] → [[Gospels]]
+[[Books MOC]] → [[NT]] → [[General Epistles]]
 
-# Matthew / Matthäus
+# Hebrews
 
 ---
 
@@ -10,7 +10,7 @@
 |-----------|-------|
 | Author |  |
 | Testament | NT |
-| Group | Gospels |
+| Group | General Epistles |
 | Chapters | 0 |
 
 ---
@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-→ [[08 Study Notes/Matthew/Matthew Notes]]
+→ [[08 Study Notes/Hebrews/Hebrews Notes]]

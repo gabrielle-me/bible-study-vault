@@ -89,7 +89,7 @@ def build_book(book: dict):
 
     write_markdown(
         output_folder /
-        f"{book['title']} - {book['title_de']}.md",
+        f"{book['title']}.md",
         output,
     )
 

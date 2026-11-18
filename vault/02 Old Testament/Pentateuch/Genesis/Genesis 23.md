@@ -1,6 +1,10 @@
-# Genesis 23
-
 ## Themes
+
+- [[faith]]
+
+- [[promise]]
+
+- [[covenant]]
 
 
 ## People
@@ -15,7 +19,7 @@
 
 ## Events
 
-- [[Call of Abraham - Berufung Abrahams]]
+- [[call_of_abraham]]
 
 
 ## Cross References

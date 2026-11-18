@@ -1,6 +1,8 @@
-# Exodus 29
-
 ## Themes
+
+- [[worship]]
+
+- [[presence]]
 
 
 ## People
@@ -15,7 +17,9 @@
 
 ## Events
 
-- [[Ten Commandments - Zehn Gebote]]
+- [[ten_commandments]]
+
+- [[tabernacle]]
 
 
 ## Cross References

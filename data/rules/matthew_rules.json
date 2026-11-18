@@ -1,0 +1,120 @@
+{
+  "book": "MAT",
+  "rules": [
+    {
+      "range": [1, 2],
+      "themes": [
+        "promise",
+        "providence",
+        "grace"
+      ],
+      "events": [
+        "genealogy_and_birth_of_jesus",
+        "visit_of_the_magi_and_flight_to_egypt"
+      ]
+    },
+    {
+      "range": [3, 4],
+      "themes": [
+        "faith",
+        "obedience",
+        "redemption"
+      ],
+      "events": [
+        "ministry_of_john_the_baptist_and_baptism_of_jesus",
+        "temptation_of_jesus_and_calling_of_first_disciples"
+      ]
+    },
+    {
+      "range": [5, 7],
+      "themes": [
+        "law",
+        "obedience",
+        "blessing"
+      ],
+      "events": [
+        "sermon_on_the_mount"
+      ]
+    },
+    {
+      "range": [8, 10],
+      "themes": [
+        "faith",
+        "redemption",
+        "blessing"
+      ],
+      "events": [
+        "healings_and_authority_of_jesus",
+        "commissioning_of_the_twelve"
+      ]
+    },
+    {
+      "range": [11, 13],
+      "themes": [
+        "faith",
+        "judgment",
+        "grace"
+      ],
+      "events": [
+        "jesus_and_john_the_baptist",
+        "kingdom_parables"
+      ]
+    },
+    {
+      "range": [14, 18],
+      "themes": [
+        "faith",
+        "grace",
+        "blessing"
+      ],
+      "events": [
+        "death_of_john_the_baptist_and_feeding_of_the_five_thousand",
+        "ministry_in_tyre_and_sidon_and_feeding_of_the_four_thousand",
+        "peter_confesses_jesus_as_the_messiah",
+        "transfiguration_of_jesus",
+        "teaching_on_humility_and_forgiveness"
+      ]
+    },
+    {
+      "range": [19, 23],
+      "themes": [
+        "law",
+        "obedience",
+        "judgment",
+        "grace"
+      ],
+      "events": [
+        "teaching_on_marriage_and_rich_young_man",
+        "journey_to_jerusalem_and_healing_of_two_blind_men",
+        "triumphal_entry_and_cleansing_of_the_temple",
+        "parables_and_conflicts_in_the_temple",
+        "woes_against_the_scribes_and_pharisees"
+      ]
+    },
+    {
+      "range": [24, 25],
+      "themes": [
+        "judgment",
+        "obedience"
+      ],
+      "events": [
+        "olivet_discourse",
+        "teaching_on_readiness_and_final_judgment"
+      ]
+    },
+    {
+      "range": [26, 28],
+      "themes": [
+        "redemption",
+        "grace",
+        "faith",
+        "obedience"
+      ],
+      "events": [
+        "last_supper_gethsemane_and_arrest_of_jesus",
+        "trial_crucifixion_and_burial_of_jesus",
+        "resurrection_and_great_commission"
+      ]
+    }
+  ]
+}

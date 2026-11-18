@@ -1,6 +1,10 @@
-# Genesis 40
-
 ## Themes
+
+- [[providence]]
+
+- [[faith]]
+
+- [[promise]]
 
 
 ## People
@@ -15,7 +19,7 @@
 
 ## Events
 
-- [[Joseph sold into Egypt - Joseph verkauft nach Ägypten]]
+- [[joseph_in_egypt]]
 
 
 ## Cross References

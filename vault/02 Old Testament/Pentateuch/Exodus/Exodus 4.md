@@ -1,6 +1,8 @@
-# Exodus 4
-
 ## Themes
+
+- [[deliverance]]
+
+- [[faith]]
 
 
 ## People
@@ -15,7 +17,9 @@
 
 ## Events
 
-- [[Burning Bush - Brennender Dornbusch]]
+- [[burning_bush]]
+
+- [[israel_in_egypt]]
 
 
 ## Cross References

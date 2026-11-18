@@ -1,6 +1,12 @@
-# Exodus 19
-
 ## Themes
+
+- [[covenant]]
+
+- [[law]]
+
+- [[holiness]]
+
+- [[obedience]]
 
 
 ## People
@@ -15,7 +21,11 @@
 
 ## Events
 
-- [[Passover - Passah]]
+- [[passover]]
+
+- [[sinai_covenant]]
+
+- [[ten_commandments]]
 
 
 ## Cross References

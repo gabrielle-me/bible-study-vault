@@ -1,6 +1,8 @@
-# Exodus 1
-
 ## Themes
+
+- [[deliverance]]
+
+- [[faith]]
 
 
 ## People
@@ -15,7 +17,9 @@
 
 ## Events
 
-- [[Israel in Egypt - Israel in Ägypten]]
+- [[israel_in_egypt]]
+
+- [[burning_bush]]
 
 
 ## Cross References

@@ -1,6 +1,10 @@
-# Exodus 35
-
 ## Themes
+
+- [[worship]]
+
+- [[presence]]
+
+- [[obedience]]
 
 
 ## People
@@ -15,7 +19,9 @@
 
 ## Events
 
-- [[Ten Commandments - Zehn Gebote]]
+- [[ten_commandments]]
+
+- [[tabernacle]]
 
 
 ## Cross References

@@ -1,5 +1,3 @@
-# Genesis 10
-
 ## Themes
 
 
@@ -13,7 +11,7 @@
 
 ## Events
 
-- [[Flood - Sintflut]]
+- [[flood]]
 
 
 ## Cross References

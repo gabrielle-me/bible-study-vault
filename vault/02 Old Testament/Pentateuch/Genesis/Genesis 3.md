@@ -1,6 +1,10 @@
-# Genesis 3
-
 ## Themes
+
+- [[fall]]
+
+- [[judgment]]
+
+- [[grace]]
 
 
 ## People
@@ -19,7 +23,7 @@
 
 ## Events
 
-- [[Fall - Sündenfall]]
+- [[fall]]
 
 
 ## Cross References

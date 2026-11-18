@@ -1,6 +1,10 @@
-# Exodus 12
-
 ## Themes
+
+- [[deliverance]]
+
+- [[judgment]]
+
+- [[faith]]
 
 
 ## People
@@ -15,7 +19,11 @@
 
 ## Events
 
-- [[Passover - Passah]]
+- [[passover]]
+
+- [[exodus]]
+
+- [[red_sea_crossing]]
 
 
 ## Cross References

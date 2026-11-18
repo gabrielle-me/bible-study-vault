@@ -76,6 +76,8 @@ Defines:
 
 Rules describe **what a passage is about**, not who appears in it.
 
+Each `<book>_rules.json` file uses the canonical book ID in `book` and stores its chapter ranges in a `rules` array. Each rule has an inclusive `range` and optional `themes` and `events` lists.
+
 ---
 
 ## `data/ontology`
@@ -95,7 +97,7 @@ Ontology files should never contain duplicated information.
 
 ---
 
-## `data/locales`
+## `data/translations`
 
 Translations.
 
@@ -206,13 +208,7 @@ The project stores IDs, not translated text.
 
 Example:
 
-Instead of
-
-```
-Creation - Schöpfung
-```
-
-store
+Store ontology IDs instead of display text:
 
 ```
 creation

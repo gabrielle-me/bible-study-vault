@@ -1,6 +1,8 @@
-# Genesis 2
-
 ## Themes
+
+- [[creation]]
+
+- [[providence]]
 
 
 ## People
@@ -15,7 +17,7 @@
 
 ## Events
 
-- [[Creation - Schöpfung]]
+- [[creation]]
 
 
 ## Cross References

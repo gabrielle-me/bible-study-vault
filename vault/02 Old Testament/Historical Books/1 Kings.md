@@ -1,6 +1,6 @@
 [[Books MOC]] → [[OT]] → [[Historical Books]]
 
-# 1 Kings / 1. Könige
+# 1 Kings
 
 ---
 

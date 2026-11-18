@@ -1,0 +1,349 @@
+{
+  "book": "Matthew",
+  "chapters": 28,
+  "anchors": [
+    {
+      "chapter": 1,
+      "event": "genealogy_and_birth_of_jesus",
+      "people": [
+        "Jesus",
+        "Joseph",
+        "Mary",
+        "Abraham",
+        "David"
+      ],
+      "places": []
+    },
+    {
+      "chapter": 2,
+      "event": "visit_of_the_magi_and_flight_to_egypt",
+      "people": [
+        "Jesus",
+        "Mary",
+        "Joseph",
+        "Herod",
+        "Magi"
+      ],
+      "places": [
+        "Bethlehem",
+        "Jerusalem",
+        "Egypt",
+        "Nazareth"
+      ]
+    },
+    {
+      "chapter": 3,
+      "event": "ministry_of_john_the_baptist_and_baptism_of_jesus",
+      "people": [
+        "Jesus",
+        "John the Baptist"
+      ],
+      "places": [
+        "Jordan River",
+        "Judea"
+      ]
+    },
+    {
+      "chapter": 4,
+      "event": "temptation_of_jesus_and_calling_of_first_disciples",
+      "people": [
+        "Jesus",
+        "Satan",
+        "Peter",
+        "Andrew",
+        "James",
+        "John"
+      ],
+      "places": [
+        "Wilderness",
+        "Galilee",
+        "Sea of Galilee",
+        "Capernaum"
+      ]
+    },
+    {
+      "chapter": 5,
+      "event": "sermon_on_the_mount",
+      "people": [
+        "Jesus",
+        "Disciples"
+      ],
+      "places": [
+        "Galilee"
+      ]
+    },
+    {
+      "chapter": 8,
+      "event": "healings_and_authority_of_jesus",
+      "people": [
+        "Jesus",
+        "Centurion",
+        "Peter"
+      ],
+      "places": [
+        "Capernaum",
+        "Sea of Galilee",
+        "Gadara"
+      ]
+    },
+    {
+      "chapter": 9,
+      "event": "healings_and_calling_of_matthew",
+      "people": [
+        "Jesus",
+        "Matthew",
+        "Jairus",
+        "Woman with bleeding"
+      ],
+      "places": [
+        "Capernaum"
+      ]
+    },
+    {
+      "chapter": 10,
+      "event": "commissioning_of_the_twelve",
+      "people": [
+        "Jesus",
+        "Twelve Apostles"
+      ],
+      "places": [
+        "Galilee"
+      ]
+    },
+    {
+      "chapter": 11,
+      "event": "jesus_and_john_the_baptist",
+      "people": [
+        "Jesus",
+        "John the Baptist"
+      ],
+      "places": [
+        "Galilee",
+        "Capernaum",
+        "Chorazin",
+        "Bethsaida"
+      ]
+    },
+    {
+      "chapter": 13,
+      "event": "kingdom_parables",
+      "people": [
+        "Jesus",
+        "Disciples"
+      ],
+      "places": [
+        "Sea of Galilee"
+      ]
+    },
+    {
+      "chapter": 14,
+      "event": "death_of_john_the_baptist_and_feeding_of_the_five_thousand",
+      "people": [
+        "Jesus",
+        "John the Baptist",
+        "Herod Antipas",
+        "Disciples"
+      ],
+      "places": [
+        "Galilee",
+        "Sea of Galilee",
+        "Bethsaida"
+      ]
+    },
+    {
+      "chapter": 15,
+      "event": "ministry_in_tyre_and_sidon_and_feeding_of_the_four_thousand",
+      "people": [
+        "Jesus",
+        "Canaanite Woman",
+        "Disciples"
+      ],
+      "places": [
+        "Tyre",
+        "Sidon",
+        "Sea of Galilee"
+      ]
+    },
+    {
+      "chapter": 16,
+      "event": "peter_confesses_jesus_as_the_messiah",
+      "people": [
+        "Jesus",
+        "Peter",
+        "Disciples"
+      ],
+      "places": [
+        "Caesarea Philippi"
+      ]
+    },
+    {
+      "chapter": 17,
+      "event": "transfiguration_of_jesus",
+      "people": [
+        "Jesus",
+        "Peter",
+        "James",
+        "John",
+        "Moses",
+        "Elijah"
+      ],
+      "places": [
+        "High Mountain"
+      ]
+    },
+    {
+      "chapter": 18,
+      "event": "teaching_on_humility_and_forgiveness",
+      "people": [
+        "Jesus",
+        "Disciples"
+      ],
+      "places": [
+        "Galilee"
+      ]
+    },
+    {
+      "chapter": 19,
+      "event": "teaching_on_marriage_and_rich_young_man",
+      "people": [
+        "Jesus",
+        "Disciples",
+        "Rich Young Man"
+      ],
+      "places": [
+        "Judea",
+        "Jordan River"
+      ]
+    },
+    {
+      "chapter": 20,
+      "event": "journey_to_jerusalem_and_healing_of_two_blind_men",
+      "people": [
+        "Jesus",
+        "Disciples",
+        "James",
+        "John",
+        "Two Blind Men"
+      ],
+      "places": [
+        "Jericho",
+        "Jerusalem"
+      ]
+    },
+    {
+      "chapter": 21,
+      "event": "triumphal_entry_and_cleansing_of_the_temple",
+      "people": [
+        "Jesus",
+        "Disciples",
+        "Chief Priests",
+        "Crowds"
+      ],
+      "places": [
+        "Bethphage",
+        "Mount of Olives",
+        "Jerusalem",
+        "Temple"
+      ]
+    },
+    {
+      "chapter": 22,
+      "event": "parables_and_conflicts_in_the_temple",
+      "people": [
+        "Jesus",
+        "Pharisees",
+        "Sadducees",
+        "Herodians"
+      ],
+      "places": [
+        "Jerusalem",
+        "Temple"
+      ]
+    },
+    {
+      "chapter": 23,
+      "event": "woes_against_the_scribes_and_pharisees",
+      "people": [
+        "Jesus",
+        "Scribes",
+        "Pharisees",
+        "Disciples"
+      ],
+      "places": [
+        "Jerusalem",
+        "Temple"
+      ]
+    },
+    {
+      "chapter": 24,
+      "event": "olivet_discourse",
+      "people": [
+        "Jesus",
+        "Disciples"
+      ],
+      "places": [
+        "Mount of Olives",
+        "Jerusalem"
+      ]
+    },
+    {
+      "chapter": 25,
+      "event": "teaching_on_readiness_and_final_judgment",
+      "people": [
+        "Jesus",
+        "Disciples"
+      ],
+      "places": [
+        "Mount of Olives"
+      ]
+    },
+    {
+      "chapter": 26,
+      "event": "last_supper_gethsemane_and_arrest_of_jesus",
+      "people": [
+        "Jesus",
+        "Disciples",
+        "Judas Iscariot",
+        "Peter",
+        "Caiaphas"
+      ],
+      "places": [
+        "Bethany",
+        "Jerusalem",
+        "Gethsemane"
+      ]
+    },
+    {
+      "chapter": 27,
+      "event": "trial_crucifixion_and_burial_of_jesus",
+      "people": [
+        "Jesus",
+        "Pontius Pilate",
+        "Barabbas",
+        "Simon of Cyrene",
+        "Mary Magdalene",
+        "Joseph of Arimathea"
+      ],
+      "places": [
+        "Jerusalem",
+        "Golgotha",
+        "Tomb"
+      ]
+    },
+    {
+      "chapter": 28,
+      "event": "resurrection_and_great_commission",
+      "people": [
+        "Jesus",
+        "Mary Magdalene",
+        "Other Mary",
+        "Disciples",
+        "Angel"
+      ],
+      "places": [
+        "Tomb",
+        "Galilee"
+      ]
+    }
+  ]
+}

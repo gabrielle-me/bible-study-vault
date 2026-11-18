@@ -1,5 +1,3 @@
-# Genesis 5
-
 ## Themes
 
 
@@ -19,7 +17,7 @@
 
 ## Events
 
-- [[Fall - Sündenfall]]
+- [[fall]]
 
 
 ## Cross References

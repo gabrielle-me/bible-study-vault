@@ -5,28 +5,28 @@
   "anchors": [
     {
       "chapter": 1,
-      "event": "Israel in Egypt - Israel in Ägypten",
+      "event": "israel_in_egypt",
       "people": ["Moses"],
       "places": ["Egypt"]
     },
 
     {
       "chapter": 3,
-      "event": "Burning Bush - Brennender Dornbusch",
+      "event": "burning_bush",
       "people": ["Moses"],
       "places": ["Mount Sinai"]
     },
 
     {
       "chapter": 12,
-      "event": "Passover - Passah",
+      "event": "passover",
       "people": ["Moses"],
       "places": ["Egypt"]
     },
 
     {
       "chapter": 20,
-      "event": "Ten Commandments - Zehn Gebote",
+      "event": "ten_commandments",
       "people": ["Moses"],
       "places": ["Mount Sinai"]
     }

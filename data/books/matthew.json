@@ -1,0 +1,47 @@
+{
+  "author": "Matthew",
+  "chapters": 28,
+  "summary": "Matthew presents Jesus as the Messiah and King, tracing his birth, teaching, ministry, death, and resurrection, and concluding with the commission to make disciples of all nations.",
+  "themes": [
+    "promise",
+    "faith",
+    "law",
+    "blessing",
+    "redemption",
+    "grace",
+    "judgment",
+    "obedience"
+  ],
+  "people": [
+    "jesus",
+    "mary",
+    "joseph",
+    "john_the_baptist",
+    "peter",
+    "matthew",
+    "judas_iscariot",
+    "pontius_pilate"
+  ],
+  "places": [
+    "bethlehem",
+    "nazareth",
+    "galilee",
+    "sea_of_galilee",
+    "judea",
+    "jerusalem",
+    "mount_of_olives",
+    "golgotha"
+  ],
+  "key_events": [
+    "genealogy_and_birth_of_jesus",
+    "visit_of_the_magi_and_flight_to_egypt",
+    "sermon_on_the_mount",
+    "kingdom_parables",
+    "peter_confesses_jesus_as_the_messiah",
+    "triumphal_entry_and_cleansing_of_the_temple",
+    "olivet_discourse",
+    "last_supper_gethsemane_and_arrest_of_jesus",
+    "trial_crucifixion_and_burial_of_jesus",
+    "resurrection_and_great_commission"
+  ]
+}

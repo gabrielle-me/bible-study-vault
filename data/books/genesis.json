@@ -1,12 +1,7 @@
 {
   "author": "Moses",
-
   "chapters": 50,
-
   "summary": "The book of beginnings, describing creation, humanity's fall, the flood, the patriarchs, and God's covenant with Abraham.",
-
-  "summary_de": "Das Buch der Anfänge mit Schöpfung, Sündenfall, Sintflut, den Erzvätern und Gottes Bund mit Abraham.",
-
   "themes": [
     "creation",
     "fall",
@@ -15,7 +10,6 @@
     "promise",
     "providence"
   ],
-
   "people": [
     "adam",
     "eve",
@@ -25,14 +19,12 @@
     "jacob",
     "joseph"
   ],
-
   "places": [
     "eden",
     "mesopotamia",
     "canaan",
     "egypt"
   ],
-
   "key_events": [
     "creation",
     "fall",

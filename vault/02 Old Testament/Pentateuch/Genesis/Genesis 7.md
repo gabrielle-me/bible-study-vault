@@ -1,6 +1,10 @@
-# Genesis 7
-
 ## Themes
+
+- [[judgment]]
+
+- [[grace]]
+
+- [[covenant]]
 
 
 ## People
@@ -13,7 +17,7 @@
 
 ## Events
 
-- [[Flood - Sintflut]]
+- [[flood]]
 
 
 ## Cross References

@@ -1,7 +1,4 @@
 [[Books MOC]] → [[OT]] → [[Pentateuch]]
-
-# Genesis / 1. Mose
-
 ---
 
 ## Overview

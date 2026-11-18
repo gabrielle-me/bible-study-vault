@@ -1,5 +1,3 @@
-# Exodus 18
-
 ## Themes
 
 
@@ -15,7 +13,7 @@
 
 ## Events
 
-- [[Passover - Passah]]
+- [[passover]]
 
 
 ## Cross References

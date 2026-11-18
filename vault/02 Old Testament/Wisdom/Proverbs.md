@@ -1,6 +1,6 @@
-[[Books MOC]] → [[NT]] → [[General Epistles]]
+[[Books MOC]] → [[OT]] → [[Wisdom]]
 
-# Hebrews / Hebräer
+# Proverbs
 
 ---
 
@@ -9,8 +9,8 @@
 | Property | Value |
 |-----------|-------|
 | Author |  |
-| Testament | NT |
-| Group | General Epistles |
+| Testament | OT |
+| Group | Wisdom |
 | Chapters | 0 |
 
 ---
@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-→ [[08 Study Notes/Hebrews/Hebrews Notes]]
+→ [[08 Study Notes/Proverbs/Proverbs Notes]]

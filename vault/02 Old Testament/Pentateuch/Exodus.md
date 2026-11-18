@@ -1,7 +1,4 @@
 [[Books MOC]] → [[OT]] → [[Pentateuch]]
-
-# Exodus / 2. Mose
-
 ---
 
 ## Overview

@@ -1,6 +1,6 @@
-[[Books MOC]] → [[OT]] → [[Wisdom]]
+[[Books MOC]] → [[OT]] → [[Historical Books]]
 
-# Proverbs / Sprüche
+# 2 Kings
 
 ---
 
@@ -10,7 +10,7 @@
 |-----------|-------|
 | Author |  |
 | Testament | OT |
-| Group | Wisdom |
+| Group | Historical Books |
 | Chapters | 0 |
 
 ---
@@ -47,4 +47,4 @@
 
 ## Personal Study
 
-→ [[08 Study Notes/Proverbs/Proverbs Notes]]
+→ [[08 Study Notes/2 Kings/2 Kings Notes]]

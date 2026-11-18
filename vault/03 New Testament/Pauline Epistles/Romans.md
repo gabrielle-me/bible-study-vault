@@ -1,6 +1,6 @@
 [[Books MOC]] → [[NT]] → [[Pauline Epistles]]
 
-# Romans / Römer
+# Romans
 
 ---
 
