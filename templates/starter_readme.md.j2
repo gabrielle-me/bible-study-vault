@@ -1,0 +1,17 @@
+# Bible Study Vault
+
+Start at [[MOCs/Books MOC]]. The vault currently includes every book for which the source project has complete book, seed, and rule data.
+
+## Personalizing your vault
+
+This is your local copy. Add and edit notes anywhere in it; the updater does not overwrite your customized notes or delete files.
+
+## Getting updates
+
+Run this from the vault folder when you want to check for the latest GitHub Release:
+
+```bash
+python3 update_vault.py
+```
+
+If a released note and your edited copy have both changed, your copy stays in place. The incoming version is saved under `Updates/<release>/` for you to compare. Notes you deleted are not restored automatically.

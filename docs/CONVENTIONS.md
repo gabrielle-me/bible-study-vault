@@ -28,6 +28,22 @@ The JSON files are responsible for:
 
 # 2. Folder Responsibilities
 
+## Generated vault layout
+
+The distributable starter is built into the Git-ignored `dist/starter-vault/` directory:
+
+```text
+OT/<Book>/<Book>.md
+OT/<Book>/<Book> <chapter>.md
+NT/<Book>/<Book>.md
+NT/<Book>/<Book> <chapter>.md
+MOCs/
+```
+
+MOCs are indexes; people, places, themes, and events do not get individual notes by default. Links to those entities point to headings in their MOC. The build includes books only when book metadata, a seed, and rules are all present.
+
+The existing `vault/` directory is not the build output and is left untouched by the default build.
+
 ## `data/books`
 
 Book metadata only.
@@ -351,7 +367,13 @@ Adding a new biblical book should require **only** new JSON files, without modif
 
 ---
 
-# 12. Future Goals
+# 12. Releases and user updates
+
+Build the starter release ZIP with `python -m generator.build --version <tag> --zip`. The ZIP includes a file-hash manifest and an updater. The updater applies a release only to unchanged generated files, preserves customized or unrecognized files, saves conflicts under `Updates/<release>/`, and never deletes files. With no previous release state, all existing paths are treated as user-owned. Users should keep their personalized vault separate from this source repository.
+
+---
+
+# 13. Future Goals
 
 The architecture is designed to support:
 

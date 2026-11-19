@@ -1,0 +1,15 @@
+# {{ title }}
+
+{% for section in sections %}
+## {{ section.title }}
+{% for item in section["items"] %}
+{% if item.references is defined %}
+### {{ item.label }}
+{% for reference in item.references %}
+- {{ reference }}
+{% endfor %}
+{% else %}
+- [[{{ item.link }}|{{ item.label }}]]
+{% endif %}
+{% endfor %}
+{% endfor %}

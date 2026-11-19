@@ -1,29 +1,28 @@
+# {{ title }}
+
+[[MOCs/Books MOC]]
+
 ## Themes
 {% for t in themes %}
-- [[{{ t }}]]
+- [[MOCs/Themes MOC#{{ theme_links[loop.index0] }}|{{ theme_links[loop.index0] }}]]
 {% endfor %}
 
 ## People
 {% for p in people %}
-- [[{{ p }}]]
+- [[MOCs/Characters MOC#{{ people_links[loop.index0] }}|{{ people_links[loop.index0] }}]]
 {% endfor %}
 
 ## Places
 {% for pl in places %}
-- [[{{ pl }}]]
+- [[MOCs/Places MOC#{{ place_links[loop.index0] }}|{{ place_links[loop.index0] }}]]
 {% endfor %}
 
 ## Events
 {% for e in events %}
-- [[{{ e }}]]
+- [[MOCs/Events MOC#{{ event_links[loop.index0] }}|{{ event_links[loop.index0] }}]]
 {% endfor %}
 
 ## Cross References
 {% for x in cross_references %}
 - {{ x }}
 {% endfor %}
-
----
-
-## 🟡 Personal Notes
-→ [[{{ user_notes_link }}]]

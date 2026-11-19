@@ -1,14 +1,11 @@
-[[Books MOC]] → [[{{ testament }}]] → [[{{ group }}]]
+# {{ title }}
+
+[[MOCs/Books MOC]]
 ---
 
 ## Overview
 
-| Property | Value |
-|-----------|-------|
-| Author | {{ author }} |
-| Testament | {{ testament }} |
-| Group | {{ group }} |
-| Chapters | {{ chapters }} |
+{{ summary }}
 
 ---
 
@@ -23,7 +20,7 @@
 ## Themes
 
 {% for theme in themes %}
-- [[{{ theme }}]]
+- [[MOCs/Themes MOC#{{ theme_links[loop.index0] }}|{{ theme_links[loop.index0] }}]]
 {% endfor %}
 
 ---
@@ -31,7 +28,7 @@
 ## People
 
 {% for person in people %}
-- [[{{ person }}]]
+- [[MOCs/Characters MOC#{{ people_links[loop.index0] }}|{{ people_links[loop.index0] }}]]
 {% endfor %}
 
 ---
@@ -39,19 +36,13 @@
 ## Places
 
 {% for place in places %}
-- [[{{ place }}]]
+- [[MOCs/Places MOC#{{ place_links[loop.index0] }}|{{ place_links[loop.index0] }}]]
 {% endfor %}
 
 ---
 
 ## Major Events
 
-{% for event in events %}
-- [[{{ event }}]]
+{% for event in key_events %}
+- [[MOCs/Events MOC#{{ event_links[loop.index0] }}|{{ event_links[loop.index0] }}]]
 {% endfor %}
-
----
-
-## Personal Study
-
-→ [[{{ user_notes_link }}]]

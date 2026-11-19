@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 # ==========================================================
@@ -32,42 +33,14 @@ TEMPLATE_DIR = PROJECT_ROOT / "templates"
 # GENERATED VAULT
 # ==========================================================
 
-OUTPUT_DIR = PROJECT_ROOT / "vault"
+OUTPUT_DIR = Path(
+    os.environ.get(
+        "BIBLE_VAULT_OUTPUT",
+        PROJECT_ROOT / "dist" / "starter-vault",
+    )
+).expanduser().resolve()
 
-# Root files
-HOME_FILE = OUTPUT_DIR / "Home.md"
-
-# Main folders
-
-OLD_TESTAMENT_DIR = OUTPUT_DIR / "02 Old Testament"
-NEW_TESTAMENT_DIR = OUTPUT_DIR / "03 New Testament"
-
-PEOPLE_DIR = OUTPUT_DIR / "04 People"
-THEME_DIR = OUTPUT_DIR / "05 Themes"
-PLACE_DIR = OUTPUT_DIR / "06 Places"
-EVENT_DIR = OUTPUT_DIR / "07 Events"
-
-STUDY_NOTES_DIR = OUTPUT_DIR / "08 Study Notes"
-
-ATTACHMENT_DIR = OUTPUT_DIR / "09 Attachments"
-
-# ==========================================================
-# BOOK GROUPS
-# ==========================================================
-
-BOOK_GROUPS = {
-    "Pentateuch": "Pentateuch",
-    "Historical Books": "Historical Books",
-    "Wisdom": "Wisdom",
-    "Major Prophets": "Major Prophets",
-    "Minor Prophets": "Minor Prophets",
-    "Gospels": "Gospels",
-    "History": "History",
-    "Pauline Epistles": "Pauline Epistles",
-    "General Epistles": "General Epistles",
-    "Apocalypse": "Apocalypse",
-}
-
+MOC_DIR = OUTPUT_DIR / "MOCs"
 
 # ==========================================================
 # HELPERS
@@ -88,11 +61,8 @@ def get_testament_folder(book: dict) -> Path:
 
     testament = book["testament"]
 
-    if testament == "OT":
-        return OLD_TESTAMENT_DIR
-
-    if testament == "NT":
-        return NEW_TESTAMENT_DIR
+    if testament in ("OT", "NT"):
+        return OUTPUT_DIR / testament
 
     raise ValueError(f"Unknown testament: {testament}")
 
@@ -103,13 +73,8 @@ def get_book_folder(book: dict) -> Path:
 
     Example:
 
-    02 Old Testament/
-        Pentateuch/
-            Genesis/
+    OT/
+        Genesis/
     """
 
-    testament = get_testament_folder(book)
-
-    group = book["group"]
-
-    return testament / group / book["title"]
+    return get_testament_folder(book) / book["title"]
